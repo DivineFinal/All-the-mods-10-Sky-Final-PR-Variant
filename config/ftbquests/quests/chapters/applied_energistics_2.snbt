@@ -12,13 +12,14 @@
 	id: "07210DDF872160BA"
 	images: [{
 		height: 3.0d
+		id: "3F7416EACA2FB180"
 		image: "atm:textures/questpics/ae2.png"
 		rotation: 0.0d
 		width: 9.27d
 		x: 7.0d
 		y: -3.5d
 	}]
-	order_index: 4
+	order_index: 5
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

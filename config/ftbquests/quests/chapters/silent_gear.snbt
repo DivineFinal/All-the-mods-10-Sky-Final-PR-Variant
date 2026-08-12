@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.5d
+			id: "15D5AFA0313EA82C"
 			image: "silentgear:item/azure_repair_kit"
 			rotation: 0.0d
 			width: 1.5d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 5.0d
+			id: "6034505FD4DF26C0"
 			image: "atm:textures/questpics/silentgear/starcharger.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -25,7 +27,7 @@
 			y: -5.0d
 		}
 	]
-	order_index: 20
+	order_index: 21
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

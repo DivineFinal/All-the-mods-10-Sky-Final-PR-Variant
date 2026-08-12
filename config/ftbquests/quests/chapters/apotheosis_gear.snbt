@@ -14,6 +14,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "548EA3A0A95FF8C4"
 			image: "atm:textures/questpics/apothic/apotheosis_gear.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -22,6 +23,7 @@
 		}
 		{
 			height: 2.0d
+			id: "3A7D3E2842FCB982"
 			image: "atm:textures/questpics/apothic/gear_augment.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -30,6 +32,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2437409DE503DE5E"
 			image: "atm:textures/questpics/apothic/gear_simple.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -38,6 +41,7 @@
 		}
 		{
 			height: 2.0d
+			id: "38D577BF9766DC4B"
 			image: "atm:textures/questpics/apothic/gear_reforge.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -46,6 +50,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4BC2423DC76F1C92"
 			image: "atm:textures/questpics/apothic/gear_gem.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -54,6 +59,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0F4275019FA8BE4B"
 			image: "atm:textures/questpics/apothic/gear_smith.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -62,6 +68,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6D2B04F078AA5364"
 			image: "apotheosis:items/sigils/enhancement"
 			rotation: 0.0d
 			width: 1.0d
@@ -70,6 +77,7 @@
 		}
 		{
 			height: 1.0d
+			id: "00E5ADB41592ACCA"
 			image: "apotheosis:items/sigils/withdrawal"
 			rotation: 0.0d
 			width: 1.0d
@@ -78,6 +86,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5633CA91B6EE831D"
 			image: "apotheosis:items/sigils/rebirth"
 			rotation: 0.0d
 			width: 1.0d
@@ -86,6 +95,7 @@
 		}
 		{
 			height: 1.0d
+			id: "34086E48A02210C2"
 			image: "apotheosis:items/sigils/unnaming"
 			rotation: 0.0d
 			width: 1.0d
@@ -94,6 +104,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2303767F7AF34AE8"
 			image: "apotheosis:items/sigils/socketing"
 			rotation: 0.0d
 			width: 1.0d
@@ -102,6 +113,7 @@
 		}
 		{
 			height: 1.0d
+			id: "05C7337AB52F0F50"
 			image: "apotheosis:textures/gui/book/haven_icon.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -110,6 +122,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3742A1A878629F27"
 			image: "apotheosis:textures/gui/book/frontier_icon.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -118,6 +131,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5ED13D993084C451"
 			image: "apotheosis:textures/gui/book/summit_icon.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -126,6 +140,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7B8AD7B357BBF7F7"
 			image: "atm:textures/questpics/apothic/gear_salvage.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -134,6 +149,7 @@
 		}
 		{
 			height: 0.75d
+			id: "0DD26CBE371ACE3F"
 			image: "atm:textures/questpics/apothic/gear_sigils.png"
 			rotation: 0.0d
 			width: 2.5d
@@ -142,6 +158,7 @@
 		}
 		{
 			height: 0.75d
+			id: "71069CE0B2F15DE1"
 			image: "atm:textures/questpics/apothic/gear_tiers.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -150,6 +167,7 @@
 		}
 		{
 			height: 1.0d
+			id: "15CC20D417308290"
 			image: "apotheosis:items/sigils/malice"
 			rotation: 0.0d
 			width: 1.0d
@@ -157,9 +175,9 @@
 			y: 2.0d
 		}
 		{
-			click: "#2E5E129F25707C5D"
+			click_action: "open_quest:2E5E129F25707C5D"
 			height: 1.0d
-			hover: ["Sigil of Supremacy"]
+			id: "7CF00311F733E216"
 			image: "apotheosis:items/sigils/supremacy"
 			rotation: 0.0d
 			width: 1.0d
@@ -169,6 +187,7 @@
 		{
 			color: 16755200
 			height: 2.5d
+			id: "6270F763C9C52D6B"
 			image: "gateways:item/gate_pearl_large"
 			rotation: 0.0d
 			width: 2.5d
@@ -312,7 +331,7 @@
 					id: "734AF3AF18C1890F"
 					item: {
 						count: 1
-						id: "apotheosis:common_material"
+						id: "apotheosis:mysterious_scrap_metal"
 					}
 					type: "item"
 				}
@@ -325,7 +344,7 @@
 			size: 0.95d
 			tasks: [{
 				id: "713EFE882A8DF739"
-				item: { count: 1, id: "apotheosis:common_material" }
+				item: { count: 1, id: "apotheosis:mysterious_scrap_metal" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -340,7 +359,7 @@
 					id: "2FEBD23E24089BAE"
 					item: {
 						count: 1
-						id: "apotheosis:uncommon_material"
+						id: "apotheosis:timeworn_fabric"
 					}
 					type: "item"
 				}
@@ -353,7 +372,7 @@
 			size: 0.95d
 			tasks: [{
 				id: "366192B3D26A0B5A"
-				item: { count: 1, id: "apotheosis:uncommon_material" }
+				item: { count: 1, id: "apotheosis:timeworn_fabric" }
 				type: "item"
 			}]
 			x: -1.5d
@@ -368,7 +387,7 @@
 					id: "32124AADFAD26DF4"
 					item: {
 						count: 1
-						id: "apotheosis:rare_material"
+						id: "apotheosis:luminous_crystal_shard"
 					}
 					type: "item"
 				}
@@ -381,7 +400,7 @@
 			size: 0.95d
 			tasks: [{
 				id: "3CC05E350375C00A"
-				item: { count: 1, id: "apotheosis:rare_material" }
+				item: { count: 1, id: "apotheosis:luminous_crystal_shard" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -395,7 +414,7 @@
 					id: "6BDC8A3A55BD907A"
 					item: {
 						count: 1
-						id: "apotheosis:mythic_material"
+						id: "apotheosis:godforged_pearl"
 					}
 					type: "item"
 				}
@@ -408,7 +427,7 @@
 			size: 0.95d
 			tasks: [{
 				id: "140462D246ACBAFF"
-				item: { count: 1, id: "apotheosis:mythic_material" }
+				item: { count: 1, id: "apotheosis:godforged_pearl" }
 				type: "item"
 			}]
 			x: 1.392857142857153d
@@ -423,7 +442,7 @@
 					id: "7E90610981FEDD4B"
 					item: {
 						count: 1
-						id: "apotheosis:epic_material"
+						id: "apotheosis:arcane_sands"
 					}
 					type: "item"
 				}
@@ -436,7 +455,7 @@
 			size: 0.95d
 			tasks: [{
 				id: "2A1FC2E2E0C01055"
-				item: { count: 1, id: "apotheosis:epic_material" }
+				item: { count: 1, id: "apotheosis:arcane_sands" }
 				type: "item"
 			}]
 			x: 1.3571428571428612d
@@ -516,7 +535,7 @@
 				id: "0FFC5C1C4FCD346B"
 				item: {
 					count: 1
-					id: "apotheosis:mythic_material"
+					id: "apotheosis:godforged_pearl"
 				}
 				type: "item"
 			}]
@@ -572,7 +591,7 @@
 					id: "06CEFE411A827E19"
 					item: {
 						count: 1
-						id: "apotheosis:uncommon_material"
+						id: "apotheosis:timeworn_fabric"
 					}
 					type: "item"
 				}
@@ -613,7 +632,7 @@
 					id: "3679713EC367113C"
 					item: {
 						count: 1
-						id: "apotheosis:epic_material"
+						id: "apotheosis:arcane_sands"
 					}
 					type: "item"
 				}
@@ -663,7 +682,7 @@
 					id: "7E139757E921E73C"
 					item: {
 						count: 1
-						id: "apotheosis:mythic_material"
+						id: "apotheosis:godforged_pearl"
 					}
 					type: "item"
 				}
@@ -738,7 +757,7 @@
 					id: "2162B90127FA6656"
 					item: {
 						count: 1
-						id: "apotheosis:common_material"
+						id: "apotheosis:mysterious_scrap_metal"
 					}
 					type: "item"
 				}
@@ -759,7 +778,6 @@
 			y: 3.5d
 		}
 		{
-			dependencies: ["45647395169978ED"]
 			id: "196312DF0D2E2CB6"
 			rewards: [{
 				id: "0BC721E7CF41B60A"
@@ -789,7 +807,7 @@
 					id: "26BBE771B757D17C"
 					item: {
 						count: 1
-						id: "apotheosis:uncommon_material"
+						id: "apotheosis:timeworn_fabric"
 					}
 					type: "item"
 				}
@@ -821,7 +839,7 @@
 					id: "61C1A8AB063D4A75"
 					item: {
 						count: 1
-						id: "apotheosis:rare_material"
+						id: "apotheosis:luminous_crystal_shard"
 					}
 					type: "item"
 				}
@@ -853,7 +871,7 @@
 					id: "5809483F636CDDB0"
 					item: {
 						count: 1
-						id: "apotheosis:epic_material"
+						id: "apotheosis:arcane_sands"
 					}
 					type: "item"
 				}
@@ -885,7 +903,7 @@
 					id: "287189F44A37E215"
 					item: {
 						count: 1
-						id: "apotheosis:mythic_material"
+						id: "apotheosis:godforged_pearl"
 					}
 					type: "item"
 				}
@@ -951,7 +969,7 @@
 					id: "46F82C45D5B1394B"
 					item: {
 						count: 1
-						id: "apotheosis:uncommon_material"
+						id: "apotheosis:timeworn_fabric"
 					}
 					type: "item"
 				}
@@ -987,7 +1005,7 @@
 					id: "62B800A1111A79A9"
 					item: {
 						count: 1
-						id: "apotheosis:mythic_material"
+						id: "apotheosis:godforged_pearl"
 					}
 					type: "item"
 				}
@@ -1120,6 +1138,7 @@
 					xp_levels: 100
 				}
 			]
+			shape: "none"
 			size: 1.5d
 			tasks: [{
 				id: "2624E09A5B8C1D0D"

@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 1.5d
+			id: "08D77A3967902993"
 			image: "minecraft:textures/mob_effect/strength.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 3.0d
+			id: "7AB7EEA677C572AC"
 			image: "minecraft:textures/particle/vibration.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 1.5d
+			id: "3AE752DF1755359D"
 			image: "minecraft:textures/mob_effect/night_vision.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 3.0d
+			id: "3531B29F05AF9FE5"
 			image: "minecraft:textures/particle/vibration.png"
 			rotation: 90.0d
 			width: 3.0d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 3.0d
+			id: "1758C092DC17461E"
 			image: "minecraft:textures/particle/vibration.png"
 			rotation: 180.0d
 			width: 3.0d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 3.0d
+			id: "4B6C8CF6BD7BC9A0"
 			image: "minecraft:textures/particle/vibration.png"
 			rotation: -90.0d
 			width: 3.0d
@@ -58,9 +64,9 @@
 			y: 0.125d
 		}
 		{
-			click: "#1636F3F12E92CAEA"
+			click_action: "open_quest:1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Inferium Watering Can"]
+			id: "48AE11AD10C93655"
 			image: "mysticalagriculture:item/gear/inferium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -68,9 +74,9 @@
 			y: -6.375d
 		}
 		{
-			click: "#1636F3F12E92CAEA"
+			click_action: "open_quest:1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Prudentium Watering Can"]
+			id: "120CC0A9513AC1E6"
 			image: "mysticalagriculture:item/gear/prudentium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -79,6 +85,7 @@
 		}
 		{
 			height: 7.5d
+			id: "30E7B6D5753F85D1"
 			image: "atm:textures/questpics/mystical_agriculture/infusion_altar.png"
 			rotation: 0.0d
 			width: 12.5d
@@ -86,9 +93,9 @@
 			y: -5.5d
 		}
 		{
-			click: "#1636F3F12E92CAEA"
+			click_action: "open_quest:1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Tertium Watering Can"]
+			id: "2F2CE880DD03165D"
 			image: "mysticalagriculture:item/gear/tertium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -97,6 +104,7 @@
 		}
 		{
 			height: 2.5d
+			id: "2B340CC27AB6BDC5"
 			image: "mysticalagriculture:block/mystical_resource_crop_6"
 			rotation: 0.0d
 			width: 2.5d
@@ -105,6 +113,7 @@
 		}
 		{
 			height: 2.5d
+			id: "5B970D92B7967029"
 			image: "mysticalagriculture:block/mystical_mob_crop_6"
 			rotation: 0.0d
 			width: 2.5d
@@ -113,6 +122,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3D6ADE2E1AFBC5B6"
 			image: "mysticalagriculture:item/fertilized_essence"
 			rotation: 0.0d
 			width: 1.0d
@@ -120,9 +130,9 @@
 			y: 1.375d
 		}
 		{
-			click: "#77C6667B4C37589C"
+			click_action: "open_quest:77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Inferium Machine Upgrade"]
+			id: "4BA7A17ACB77EFA3"
 			image: "mysticalagriculture:item/inferium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -130,9 +140,9 @@
 			y: 6.0d
 		}
 		{
-			click: "#77C6667B4C37589C"
+			click_action: "open_quest:77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Prudentium Machine Upgrade"]
+			id: "3BD8F0ED44E42889"
 			image: "mysticalagriculture:item/prudentium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -140,9 +150,9 @@
 			y: 7.0d
 		}
 		{
-			click: "#77C6667B4C37589C"
+			click_action: "open_quest:77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Tertium Machine Upgrade"]
+			id: "2C6F10526FE59B68"
 			image: "mysticalagriculture:item/tertium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -150,9 +160,9 @@
 			y: 6.125d
 		}
 		{
-			click: "#77C6667B4C37589C"
+			click_action: "open_quest:77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Imperium Machine Upgrade"]
+			id: "3C472F63BD42140C"
 			image: "mysticalagriculture:item/imperium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -160,9 +170,9 @@
 			y: 6.125d
 		}
 		{
-			click: "#1636F3F12E92CAEA"
+			click_action: "open_quest:1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Imperium Watering Can"]
+			id: "5D6F074A5BDCA7CF"
 			image: "mysticalagriculture:item/gear/imperium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -170,9 +180,9 @@
 			y: -4.0d
 		}
 		{
-			click: "#1636F3F12E92CAEA"
+			click_action: "open_quest:1636F3F12E92CAEA"
 			height: 1.5d
-			hover: ["Supremium Watering Can"]
+			id: "4F6FC03B2471D8CD"
 			image: "mysticalagriculture:item/gear/supremium_watering_can"
 			rotation: 0.0d
 			width: 1.5d
@@ -180,9 +190,9 @@
 			y: -3.0d
 		}
 		{
-			click: "#77C6667B4C37589C"
+			click_action: "open_quest:77C6667B4C37589C"
 			height: 1.25d
-			hover: ["Awakened Supremium Machine Upgrade"]
+			id: "65D98C5C4B9E041C"
 			image: "mysticalagriculture:item/awakened_supremium_upgrade"
 			rotation: 0.0d
 			width: 1.25d
@@ -191,6 +201,7 @@
 		}
 		{
 			height: 1.25d
+			id: "585596500EF94288"
 			image: "atm:textures/questpics/mystical_agriculture/machines.png"
 			rotation: 0.0d
 			width: 5.733333333333333d
@@ -199,6 +210,7 @@
 		}
 		{
 			height: 2.0d
+			id: "031B6D690AA517EB"
 			image: "atm:textures/questpics/mystical_agriculture/title.png"
 			rotation: 0.0d
 			width: 10.65d
@@ -207,6 +219,7 @@
 		}
 		{
 			height: 5.5d
+			id: "06B4EB07906AB887"
 			image: "atm:textures/questpics/mystical_agriculture/awakening_altar.png"
 			rotation: 0.0d
 			width: 10.468232044198896d
@@ -215,6 +228,7 @@
 		}
 		{
 			height: 1.5d
+			id: "043250EE2A478531"
 			image: "mysticalagriculture:item/creative_soulium_dagger"
 			rotation: 0.0d
 			width: 1.5d
@@ -222,9 +236,8 @@
 			y: 0.0d
 		}
 		{
-			click: "."
 			height: 1.0d
-			hover: ["Machine Frame"]
+			id: "1F283E933FC7B8AD"
 			image: "mysticalagriculture:block/machine_frame"
 			rotation: 0.0d
 			width: 1.0d
@@ -233,6 +246,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1F3DCBC53DAE55B9"
 			image: "ftbquests:textures/gui/alert.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -240,7 +254,7 @@
 			y: -4.0d
 		}
 	]
-	order_index: 11
+	order_index: 14
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

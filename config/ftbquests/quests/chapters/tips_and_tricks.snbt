@@ -9,13 +9,14 @@
 	id: "1BE666F01EFFC00D"
 	images: [{
 		height: 3.0d
+		id: "1602AB3083A2DBE7"
 		image: "atm:textures/questpics/tips_and_tricks.png"
 		rotation: 0.0d
 		width: 12.0d
 		x: 0.0d
 		y: -2.0d
 	}]
-	order_index: 7
+	order_index: 8
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 0.3d
+			id: "25F78812D5C72972"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "39E3006C8AD7FA77"
 			image: "ars_nouveau:item/starbuncle_shards"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.5d
+			id: "7446E108E97397CD"
 			image: "atm:textures/questpics/ars/ars_nouveau_title.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -4623,7 +4626,8 @@
 			y: 3.5d
 		}
 		{
-			dependencies: ["3D862A3D3F83CA26"]
+			dependencies: ["5766C8B9E850C186"]
+			hide_dependency_lines: true
 			id: "5AEFB843AA0A575E"
 			rewards: [
 				{
@@ -4949,6 +4953,7 @@
 				}
 				{
 					id: "0ED79DEDEA68752F"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "ars_nouveau:drygmy_stone"

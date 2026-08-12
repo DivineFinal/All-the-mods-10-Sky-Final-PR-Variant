@@ -2,12 +2,13 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "mi_digital"
-	group: "63C9361F0D859633"
+	group: "1D62E0CCB4761288"
 	icon: {
 		id: "modern_industrialization:blastproof_alloy_ingot"
 	}
 	id: "56B11606F5F4DAB2"
-	order_index: 12
+	images: [ ]
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{

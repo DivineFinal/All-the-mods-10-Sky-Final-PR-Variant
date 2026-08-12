@@ -3,10 +3,14 @@
 	default_quest_shape: "hexagon"
 	filename: "chapter_1_starting_out"
 	group: "029264819125415F"
+	icon: {
+		id: "minecraft:crafting_table"
+	}
 	id: "3B0302DB5E77C3A2"
 	images: [
 		{
 			height: 1.0d
+			id: "49D00BB7D02C2B04"
 			image: "exdeorum:item/silkworm"
 			rotation: 0.0d
 			width: 1.0d
@@ -15,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0E2A514DCA02BE4D"
 			image: "exdeorum:item/silkworm"
 			rotation: 180.0d
 			width: 1.0d
@@ -23,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "12724CFFCE9256E7"
 			image: "exdeorum:item/silkworm"
 			rotation: 90.0d
 			width: 1.0d
@@ -31,6 +37,7 @@
 		}
 		{
 			height: 2.0d
+			id: "36211E2ABA722308"
 			image: "atm:textures/questpics/chap1/chap1_title1.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -39,6 +46,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7A023B4D953A7C64"
 			image: "atm:textures/questpics/chap1/chap1_title2.png"
 			rotation: 0.0d
 			width: 12.0d
@@ -47,6 +55,7 @@
 		}
 		{
 			height: 3.0d
+			id: "15889E44979CE0CF"
 			image: "atm:textures/questpics/chap1/chap1_default.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -55,6 +64,7 @@
 		}
 		{
 			height: 3.5d
+			id: "1CD9952CFF22920E"
 			image: "atm:textures/questpics/chap1/chap1_piggy.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -63,6 +73,7 @@
 		}
 		{
 			height: 4.0d
+			id: "6FD9545A1D155419"
 			image: "atm:textures/questpics/chap1/chap1_witch.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -71,6 +82,7 @@
 		}
 		{
 			height: 3.0d
+			id: "66CA6CB21A11DDC2"
 			image: "atm:textures/questpics/chap1/chap1_cozy.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -79,6 +91,7 @@
 		}
 		{
 			height: 5.0d
+			id: "1448C2CCE461BDF5"
 			image: "atm:textures/questpics/chap1/chap1_big.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -87,6 +100,7 @@
 		}
 		{
 			height: 4.0d
+			id: "39BB2B73B814879F"
 			image: "atm:textures/questpics/chap1/chap1_stay.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -95,6 +109,7 @@
 		}
 		{
 			height: 4.2d
+			id: "00F2A8D75841DEFC"
 			image: "atm:textures/questpics/chap1/chap1_frame.png"
 			rotation: 0.0d
 			width: 5.2d
@@ -103,6 +118,7 @@
 		}
 		{
 			height: 4.2d
+			id: "38373F2E428D8B55"
 			image: "atm:textures/questpics/chap1/chap1_frame.png"
 			rotation: 0.0d
 			width: 5.2d
@@ -111,6 +127,7 @@
 		}
 		{
 			height: 6.5d
+			id: "64E56D6C88DE38D8"
 			image: "atm:textures/questpics/chap1/chap1_frame.png"
 			rotation: 0.0d
 			width: 6.5d
@@ -119,6 +136,7 @@
 		}
 		{
 			height: 5.5d
+			id: "27C95A52644FB75B"
 			image: "atm:textures/questpics/chap1/chap1_frame.png"
 			rotation: 0.0d
 			width: 5.5d
@@ -127,6 +145,7 @@
 		}
 		{
 			height: 4.2d
+			id: "3720929A05AD5DE5"
 			image: "atm:textures/questpics/chap1/chap1_frame.png"
 			rotation: 0.0d
 			width: 6.2d
@@ -135,6 +154,7 @@
 		}
 		{
 			height: 5.5d
+			id: "37F9F9A314C43E64"
 			image: "atm:textures/questpics/chap1/chap1_frame.png"
 			rotation: 0.0d
 			width: 7.5d
@@ -408,6 +428,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "13EEA182A22DD84D"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "minecraft:grass_block"

@@ -9,6 +9,7 @@
 	id: "5D045EF1AB73DF70"
 	images: [{
 		height: 5.0d
+		id: "1A1AFF1F3FF8D972"
 		image: "atm:textures/questpics/basic_power/allthepower.png"
 		rotation: 0.0d
 		width: 15.0d

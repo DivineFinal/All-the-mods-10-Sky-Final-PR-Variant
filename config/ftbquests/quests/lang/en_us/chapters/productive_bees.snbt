@@ -41,7 +41,7 @@
 	quest.065196033249A0AA.title: "Biosteel Bee"
 	quest.0691BDE968724213.quest_subtitle: "Made in Alloy Smelter"
 	quest.0691BDE968724213.title: "Vibrant Alloy Bee"
-	quest.069247036385D7CF.quest_desc: ["Affects the time of day a bee can work. There are 3 levels of this: &aDiurnal&r, &dNocturnal&r, &cMetaturnal&r. &aDiurnal&r bees can only work during daytime, &dNocturnal&r bees can only work during nighttime, &cMetaturnal&r bees can work at any time of the day. &cMetaturnal&r is what we're after. BeeBee naturally has the &cMetaturnal&r trait, but, as mentioned earlier, is on vacation, so we'll need to look into some alternative measures. We will need to leash some bees to a fence during nighttime to make them &dNocturnal&r, then leaving those bees out on a fence during daytime to make them &cMetaturnal&r. We can skip one of these steps with a Ghostly Bee, which is naturally &dNocturnal&r."]
+	quest.069247036385D7CF.quest_desc: ["Affects the time of day a bee can work. There are 3 levels of this: &aDiurnal&r, &dNocturnal&r, &cMetaturnal&r. &aDiurnal&r bees can only work during daytime, &dNocturnal&r bees can only work during nighttime, &cMetaturnal&r bees can work at any time of the day. &cMetaturnal&r is what we're after.\\n\\nBeeBee naturally has the &cMetaturnal&r trait, but, as mentioned earlier, is on vacation, so we'll need to look into some alternative measures.\\n\\nWe will need to leash some bees to a fence during nighttime to make them &dNocturnal&r, then leaving those bees out on a fence during daytime to make them &cMetaturnal&r. We can skip one of these steps with a Ghostly Bee, which is naturally &dNocturnal&r."]
 	quest.069247036385D7CF.quest_subtitle: "Sleep is for the weak"
 	quest.069247036385D7CF.title: "&l&eBeehavior"
 	quest.06B352AE90DD0D3E.quest_desc: ["A &8BlazBee&r pollinating an &4Obsidian Bee Spawn Egg&r will convert it into a &2Infinity Bee Spawn Egg&r."]
@@ -174,7 +174,7 @@
 	quest.1A4FAE5705B53753.title: "Air Essence Bee"
 	quest.1ACB3EDBCB732514.quest_subtitle: "Feed a Block of Monazite to a Sulfur Bee"
 	quest.1ACB3EDBCB732514.title: "Monazite Bee"
-	quest.1B135C28E29F249F.quest_desc: ["Affects the bee's aggression and likeliness to sting you. This is one of the less important traits, though it is worth not having an Aggressive bee when you want to work with one in world. There are 4 levels of this: &aPassive&r, &9Normal&r, &cHostile&r, &dAggressive&r. I'll be honest I don't really know what each level of Temper does. All I know is that &dAggressive&r bees WILL sting you, even if otherwise unprovoked. Bees will become less aggressive if you feed them Honey Treats."]
+	quest.1B135C28E29F249F.quest_desc: ["Affects the bee's aggression and likeliness to sting you. This is one of the less important traits, though it is worth not having an Aggressive bee when you want to work with one in world. There are 4 levels of this: &aPassive&r, &9Normal&r, &cHostile&r, &dAggressive&r.\\n\\nI'll be honest I don't really know what each level of Temper does. All I know is that &dAggressive&r bees WILL sting you, even if otherwise unprovoked. Bees will become less aggressive if you feed them Honey Treats."]
 	quest.1B135C28E29F249F.quest_subtitle: "Stop stinging me already!"
 	quest.1B135C28E29F249F.title: "&l&4Temper"
 	quest.1C40B30823B2A254.quest_subtitle: "Just fish for it"
@@ -292,7 +292,7 @@
 	quest.36541A2179A7E76B.title: "Benitoite Bee"
 	quest.369D3AF332181DA8.quest_desc: ["The Stone Nest can be placed in any overworld biome to lure in a Mason Bee or Digger Bee."]
 	quest.369D3AF332181DA8.quest_subtitle: "Lures Bees in any Overworld Biome"
-	quest.36C06EB2F3B9E6B2.quest_desc: ["Affects the ability of a bee to work under harsh weather conditions. There are 3 levels of this: &aNone&r, &dRain&r, &cAny&r. &cAny&r is what we are after. You could leash the bee to a fence during a thunderstorm if you wanted to, but come on, that's just cruel. I offer you an easier solution. Fishing. That's right, you can fish for bees. Water or Prismarine Bees naturally come with the ability to tolerate any weather conditions. We can make use of this! They don't even have any biome requirements here!"]
+	quest.36C06EB2F3B9E6B2.quest_desc: ["Affects the ability of a bee to work under harsh weather conditions. There are 3 levels of this: &aNone&r, &dRain&r, &cAny&r. &cAny&r is what we are after.\\n\\nYou could leash the bee to a fence during a thunderstorm if you wanted to, but come on, that's just cruel.\\n\\nI offer you an easier solution. Fishing. That's right, you can fish for bees. Water or Prismarine Bees naturally come with the ability to tolerate any weather conditions. We can make use of this! They don't even have any biome requirements here!"]
 	quest.36C06EB2F3B9E6B2.quest_subtitle: "The least big one of the big ones"
 	quest.36C06EB2F3B9E6B2.title: "&9&lWeather Tolerance"
 	quest.37045B986619A03D.quest_subtitle: "Yellow + Green Carpenter Bee"
@@ -479,7 +479,7 @@
 		"{image:atm:textures/questpics/bees/bottler.png width:100 height:150 align:1}"
 	]
 	quest.6F978C4D561F35EC.quest_subtitle: "Honey I Squished The Bees"
-	quest.6FD944282C44BCE1.quest_desc: ["Affects the bee's likelihood of losing its stinger whenever it attacks something. This trait is less important compared to the first 3 I mentioned, but I will talk about it anyway. There are 4 levels of this: &aWeak&r, &9Normal&r, &dMedium&r, &cStrong&r. &cStrong&r is the one I will focus on. Certain Bees, like Draconic, Obsidian, and some other bees I may not have mentioned naturally have strong Endurance, allowing them to keep their stinger."]
+	quest.6FD944282C44BCE1.quest_desc: ["Affects the bee's likelihood of losing its stinger whenever it attacks something. This trait is less important compared to the first 3 I mentioned, but I will talk about it anyway. There are 4 levels of this: &aWeak&r, &9Normal&r, &dMedium&r, &cStrong&r. &cStrong&r is the one I will focus on.\\n\\nCertain Bees, like Draconic, Obsidian, and some other bees I may not have mentioned naturally have strong Endurance, allowing them to keep their stinger."]
 	quest.6FD944282C44BCE1.quest_subtitle: "One of the less important ones"
 	quest.6FD944282C44BCE1.title: "&l&bEndurance"
 	quest.70C878DB6AE413B2.quest_subtitle: "Magmatic + Coal"
@@ -542,7 +542,7 @@
 	quest.7E57964F6AD5B060.title: "Tea Bee"
 	quest.7EAFF64FFE8B5378.quest_subtitle: "Iron + Sweat"
 	quest.7EAFF64FFE8B5378.title: "Zinc Bee"
-	quest.7F61CAC8922A3A2A.quest_desc: ["Affects the amount of combs you receive whenever a bee produces honeycombs. There are 4 levels of this: &aNormal&r, &9Medium&r, &dHigh&r, &cVery High&r. &cVery High&r is what we are after. It is found on KamikazBee and BeeBee. BeeBee is currently on vacation down below, though, so KamikazBee is our only option. To get a KamikazBee, you need a Bee Nest Helmet. Get attacked by mobs (or shoot yourself with an arrow) while wearing the helmet for a 30% chance of having a KamikazBee emerge. It is quite fast, and will sting the aggressor (unless it's you), so better catch it quickly or use the Catcher."]
+	quest.7F61CAC8922A3A2A.quest_desc: ["Affects the amount of combs you receive whenever a bee produces honeycombs. There are 4 levels of this: &aNormal&r, &9Medium&r, &dHigh&r, &cVery High&r. &cVery High&r is what we are after. It is found on KamikazBee and BeeBee.\\n\\nBeeBee is currently on vacation down below, though, so KamikazBee is our only option.\\n\\nTo get a KamikazBee, you need a Bee Nest Helmet. Get attacked by mobs (or shoot yourself with an arrow) while wearing the helmet for a 30% chance of having a KamikazBee emerge. It is quite fast, and will sting the aggressor (unless it's you), so better catch it quickly or use the Catcher."]
 	quest.7F61CAC8922A3A2A.quest_subtitle: "The big one"
 	quest.7F61CAC8922A3A2A.title: "&a&lProductivity"
 	task.065E5450AC87F1D5.title: "Ancient Comb"

@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "25254716556C9EBD"
 			image: "atm:textures/questpics/create/create_title.png"
 			order: 1
 			rotation: 0.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5143BB7851641BB9"
 			image: "atm:textures/questpics/create/create_title_power.png"
 			order: 1
 			rotation: 0.0d
@@ -28,6 +30,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5E01C9CADF34ABAD"
 			image: "atm:textures/questpics/create/create_title_machines.png"
 			order: 1
 			rotation: 45.0d
@@ -37,6 +40,7 @@
 		}
 		{
 			height: 1.0d
+			id: "24726A1066FC4E3C"
 			image: "atm:textures/questpics/create/create_title_tool.png"
 			order: 1
 			rotation: 0.0d
@@ -46,6 +50,7 @@
 		}
 		{
 			height: 1.0d
+			id: "070FA7A3E1C36848"
 			image: "atm:textures/questpics/create/create_title_contrapt.png"
 			order: 1
 			rotation: -90.0d
@@ -55,6 +60,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4F4BDF952F097EF4"
 			image: "atm:textures/questpics/create/create_title_fluid.png"
 			order: 1
 			rotation: -90.0d
@@ -64,6 +70,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3CE29FB0CB58904C"
 			image: "atm:textures/questpics/create/create_title_item.png"
 			order: 1
 			rotation: 0.0d
@@ -73,6 +80,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7CCB07EA0B369C01"
 			image: "atm:textures/questpics/create/create_title_contrapt.png"
 			order: 1
 			rotation: 0.0d
@@ -82,6 +90,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0AA44BB90DBE6363"
 			image: "atm:textures/questpics/create/create_title_machines.png"
 			order: 1
 			rotation: 45.0d
@@ -91,6 +100,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0CFBFA86B3A24160"
 			image: "atm:textures/questpics/create/create_title_power.png"
 			order: 1
 			rotation: 0.0d
@@ -100,6 +110,7 @@
 		}
 		{
 			height: 4.0d
+			id: "6C3C2DFBCD88BF1C"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 20.0d
 			width: 4.0d
@@ -108,6 +119,7 @@
 		}
 		{
 			height: 2.5d
+			id: "085C2BB2D12C3EFE"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 2.5d
@@ -116,6 +128,7 @@
 		}
 		{
 			height: 2.0d
+			id: "490010F0F222B36B"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 20.0d
 			width: 2.0d
@@ -124,6 +137,7 @@
 		}
 		{
 			height: 2.0d
+			id: "56522209C67B27DD"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 20.0d
 			width: 2.0d
@@ -132,6 +146,7 @@
 		}
 		{
 			height: 2.5d
+			id: "42A14E1FCDCCC6CC"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 2.5d
@@ -140,6 +155,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0BCC422B4DBAE587"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 20.0d
 			width: 2.0d
@@ -148,6 +164,7 @@
 		}
 		{
 			height: 2.0d
+			id: "27E99F4EC1A904B4"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 20.0d
 			width: 2.0d
@@ -156,6 +173,7 @@
 		}
 		{
 			height: 2.5d
+			id: "31B112F60B055888"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 0.0d
 			width: 2.5d
@@ -164,6 +182,7 @@
 		}
 		{
 			height: 2.0d
+			id: "27690E9FCCBE3D12"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 20.0d
 			width: 2.0d
@@ -172,6 +191,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4B331E8330C29734"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 20.0d
 			width: 2.0d
@@ -180,6 +200,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6AF21DE188CDAE2B"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 20.0d
 			width: 2.0d
@@ -188,6 +209,7 @@
 		}
 		{
 			height: 1.75d
+			id: "598F1F68B9306C97"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 20.0d
 			width: 1.75d
@@ -196,6 +218,7 @@
 		}
 		{
 			height: 1.75d
+			id: "70D1A7411E4A55DD"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 20.0d
 			width: 1.75d
@@ -204,6 +227,7 @@
 		}
 		{
 			height: 1.75d
+			id: "7DCFBBC65C1429EC"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.75d
@@ -212,6 +236,7 @@
 		}
 		{
 			height: 1.75d
+			id: "7D1E4ACF15786A69"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.75d
@@ -220,6 +245,7 @@
 		}
 		{
 			height: 1.75d
+			id: "6347A8ABDC432454"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.75d
@@ -228,6 +254,7 @@
 		}
 		{
 			height: 1.75d
+			id: "6EBF2F883B74DC6B"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.75d
@@ -236,6 +263,7 @@
 		}
 		{
 			height: 1.75d
+			id: "24BC894375FE948F"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.75d
@@ -244,6 +272,7 @@
 		}
 		{
 			height: 1.75d
+			id: "6F15F15BD8FE1D79"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.75d
@@ -252,6 +281,7 @@
 		}
 		{
 			height: 2.5d
+			id: "6466029CA0559F0A"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 2.5d
@@ -260,6 +290,7 @@
 		}
 		{
 			height: 1.5d
+			id: "2F175B8493328C7B"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -268,6 +299,7 @@
 		}
 		{
 			height: 1.5d
+			id: "4FF3FCCA21FC6D2F"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -276,6 +308,7 @@
 		}
 		{
 			height: 1.5d
+			id: "19D088F87E63AC2F"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -284,6 +317,7 @@
 		}
 		{
 			height: 1.5d
+			id: "2D27F3639974D1F9"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -292,6 +326,7 @@
 		}
 		{
 			height: 1.5d
+			id: "1C0C4F199AAE2D99"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -300,6 +335,7 @@
 		}
 		{
 			height: 1.5d
+			id: "34DE64A1ADA619EF"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -308,6 +344,7 @@
 		}
 		{
 			height: 1.5d
+			id: "3B3CB463715C6C1F"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -316,6 +353,7 @@
 		}
 		{
 			height: 1.5d
+			id: "28BBFAC81315950C"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -324,6 +362,7 @@
 		}
 		{
 			height: 1.5d
+			id: "468B21D7EFA85F41"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -332,6 +371,7 @@
 		}
 		{
 			height: 1.5d
+			id: "217DE88AD7EF3099"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -340,6 +380,7 @@
 		}
 		{
 			height: 1.5d
+			id: "65442E7DF19CB1E2"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -348,6 +389,7 @@
 		}
 		{
 			height: 1.5d
+			id: "18937ADA94B29824"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -356,6 +398,7 @@
 		}
 		{
 			height: 1.5d
+			id: "75E094DC82DC6648"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -364,6 +407,7 @@
 		}
 		{
 			height: 1.5d
+			id: "776731E4F52FF1F6"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -372,6 +416,7 @@
 		}
 		{
 			height: 1.5d
+			id: "6783812D79A88EC9"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -380,6 +425,7 @@
 		}
 		{
 			height: 1.5d
+			id: "7E3D14B5D0F075E7"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -388,6 +434,7 @@
 		}
 		{
 			height: 1.5d
+			id: "24833BDE98D85565"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -396,6 +443,7 @@
 		}
 		{
 			height: 1.5d
+			id: "0F3DA26D3F420D99"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -404,6 +452,7 @@
 		}
 		{
 			height: 1.5d
+			id: "7BCB61DA31033356"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -412,6 +461,7 @@
 		}
 		{
 			height: 1.5d
+			id: "4335D3275DD140FE"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -420,6 +470,7 @@
 		}
 		{
 			height: 1.5d
+			id: "3429DD197FAF3BAB"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -428,6 +479,7 @@
 		}
 		{
 			height: 1.5d
+			id: "3937902A4F2627BC"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -436,6 +488,7 @@
 		}
 		{
 			height: 1.5d
+			id: "39C11DF2CEF821BE"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -444,6 +497,7 @@
 		}
 		{
 			height: 1.5d
+			id: "0E52D2903D12CDD4"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -452,6 +506,7 @@
 		}
 		{
 			height: 1.5d
+			id: "526F435A0AA65187"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -460,6 +515,7 @@
 		}
 		{
 			height: 1.5d
+			id: "4F6265DE12CCD61F"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -468,6 +524,7 @@
 		}
 		{
 			height: 1.5d
+			id: "2F8FE8986697CF92"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -476,6 +533,7 @@
 		}
 		{
 			height: 1.5d
+			id: "75419D0173B0BE58"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -484,6 +542,7 @@
 		}
 		{
 			height: 1.5d
+			id: "5CBA191A960C4B71"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -492,6 +551,7 @@
 		}
 		{
 			height: 1.5d
+			id: "40086FBD29C0D01F"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -500,6 +560,7 @@
 		}
 		{
 			height: 1.5d
+			id: "4CDE512E6E445C83"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -508,6 +569,7 @@
 		}
 		{
 			height: 1.5d
+			id: "0468AA09D4406BA1"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -516,6 +578,7 @@
 		}
 		{
 			height: 1.5d
+			id: "28C8B2AE14EAA184"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -524,6 +587,7 @@
 		}
 		{
 			height: 1.5d
+			id: "1FFB06B9C4901862"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -532,6 +596,7 @@
 		}
 		{
 			height: 1.5d
+			id: "3B09F441CE5F93B0"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -540,6 +605,7 @@
 		}
 		{
 			height: 1.5d
+			id: "1CD92A5E2E96E20C"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -548,6 +614,7 @@
 		}
 		{
 			height: 1.5d
+			id: "18EC65161BC2207D"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -556,6 +623,7 @@
 		}
 		{
 			height: 1.5d
+			id: "061AEF92723422E4"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -564,6 +632,7 @@
 		}
 		{
 			height: 1.5d
+			id: "165671958D8761DC"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -572,6 +641,7 @@
 		}
 		{
 			height: 1.5d
+			id: "1F9B9535EC3541AA"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -580,6 +650,7 @@
 		}
 		{
 			height: 1.5d
+			id: "2C06C3102F84E658"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -588,6 +659,7 @@
 		}
 		{
 			height: 1.5d
+			id: "2E413735EBE06495"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -596,6 +668,7 @@
 		}
 		{
 			height: 1.5d
+			id: "7722AC495404429F"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -604,6 +677,7 @@
 		}
 		{
 			height: 1.5d
+			id: "6AB6240E821FF477"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -612,6 +686,7 @@
 		}
 		{
 			height: 1.5d
+			id: "71936E4650E1C7C1"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -620,6 +695,7 @@
 		}
 		{
 			height: 1.5d
+			id: "4723B7B02A684610"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -628,6 +704,7 @@
 		}
 		{
 			height: 1.5d
+			id: "0CFBF62576CD8FCF"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -636,6 +713,7 @@
 		}
 		{
 			height: 1.5d
+			id: "6312972B95D30DC5"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -644,6 +722,7 @@
 		}
 		{
 			height: 1.5d
+			id: "7F360DE22A78FD8F"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -652,6 +731,7 @@
 		}
 		{
 			height: 1.5d
+			id: "2FE1D0218EF404DA"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -660,6 +740,7 @@
 		}
 		{
 			height: 1.5d
+			id: "01D713950BCFA2BA"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -668,6 +749,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2D107AF9CF6A517E"
 			image: "atm:textures/questpics/create/create_background_title.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -676,6 +758,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6FCFECCA27789B65"
 			image: "atm:textures/questpics/create/create_background_title.png"
 			rotation: 45.0d
 			width: 5.0d
@@ -684,6 +767,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2FED6C4CF7F5E4E7"
 			image: "atm:textures/questpics/create/create_background_title.png"
 			rotation: 45.0d
 			width: 5.0d
@@ -692,6 +776,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4A0106138A3ACF9F"
 			image: "atm:textures/questpics/create/create_background_title.png"
 			rotation: 0.0d
 			width: 5.5d
@@ -700,6 +785,7 @@
 		}
 		{
 			height: 2.0d
+			id: "67E3D4827A701E06"
 			image: "atm:textures/questpics/create/create_background_title.png"
 			rotation: 0.0d
 			width: 5.5d
@@ -708,6 +794,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5B2F9C42BDEACB5C"
 			image: "atm:textures/questpics/create/create_background_title.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -716,6 +803,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7D3D7C0C66041214"
 			image: "atm:textures/questpics/create/create_background_title.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -724,6 +812,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6316B4CCB145C71C"
 			image: "atm:textures/questpics/create/create_background_title.png"
 			rotation: -90.0d
 			width: 6.0d
@@ -732,6 +821,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5CE2A2FBEB2ACFD6"
 			image: "atm:textures/questpics/create/create_background_title.png"
 			rotation: -90.0d
 			width: 7.0d
@@ -740,6 +830,7 @@
 		}
 		{
 			height: 3.0d
+			id: "74B20EB8EC06E536"
 			image: "atm:textures/questpics/create/create_background_title.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -748,6 +839,7 @@
 		}
 		{
 			height: 1.5d
+			id: "597825285982CE53"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -756,6 +848,7 @@
 		}
 		{
 			height: 1.5d
+			id: "42BBF723F3FC1A2C"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -764,6 +857,7 @@
 		}
 		{
 			height: 1.5d
+			id: "7324525F22330782"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -772,6 +866,7 @@
 		}
 		{
 			height: 1.5d
+			id: "392E87889EFAA8EE"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -780,6 +875,7 @@
 		}
 		{
 			height: 1.5d
+			id: "3100A743109DA3E7"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -788,6 +884,7 @@
 		}
 		{
 			height: 1.5d
+			id: "71751257B151BFA0"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -796,6 +893,7 @@
 		}
 		{
 			height: 1.5d
+			id: "0C87D1B607F977C0"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -804,6 +902,7 @@
 		}
 		{
 			height: 2.0d
+			id: "37E24A1564510843"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 20.0d
 			width: 2.0d
@@ -812,6 +911,7 @@
 		}
 		{
 			height: 2.5d
+			id: "1522F580EF948A9C"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 2.5d
@@ -820,6 +920,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4DE03634A35BC231"
 			image: "atm:textures/questpics/create/create_background_title.png"
 			rotation: 90.0d
 			width: 3.25d
@@ -828,6 +929,7 @@
 		}
 		{
 			height: 1.0d
+			id: "381DDF4C952177D7"
 			image: "atm:textures/questpics/create/create_title_trains.png"
 			order: 1
 			rotation: 90.0d
@@ -837,6 +939,7 @@
 		}
 		{
 			height: 1.0d
+			id: "200F0E3A42EEA23B"
 			image: "atm:textures/questpics/create/create_title_trains.png"
 			order: 1
 			rotation: 0.0d
@@ -846,6 +949,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1D976FD7019F00B4"
 			image: "atm:textures/questpics/create/create_background_title.png"
 			rotation: 0.0d
 			width: 3.25d
@@ -854,6 +958,7 @@
 		}
 		{
 			height: 1.5d
+			id: "79E8E9A42701B71F"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -862,6 +967,7 @@
 		}
 		{
 			height: 1.5d
+			id: "0016772AEAF0DFA8"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -870,6 +976,7 @@
 		}
 		{
 			height: 1.5d
+			id: "681EE7F647C8DE46"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -878,6 +985,7 @@
 		}
 		{
 			height: 1.5d
+			id: "134CD3CD4491C030"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -886,6 +994,7 @@
 		}
 		{
 			height: 1.5d
+			id: "7FFDD9E750AB3045"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -894,6 +1003,7 @@
 		}
 		{
 			height: 1.5d
+			id: "64105A6843D18504"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -902,6 +1012,7 @@
 		}
 		{
 			height: 1.5d
+			id: "40F8AEDC8792AD99"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -910,6 +1021,7 @@
 		}
 		{
 			height: 1.5d
+			id: "38826A69DB1F3260"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -918,6 +1030,7 @@
 		}
 		{
 			height: 1.0d
+			id: "46DC82C0E3BA7C3A"
 			image: "atm:textures/questpics/create/create_background_title.png"
 			rotation: -90.0d
 			width: 6.0d
@@ -926,6 +1039,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4E950599DE62133B"
 			image: "atm:textures/questpics/create/create_title_item.png"
 			order: 1
 			rotation: -90.0d
@@ -935,6 +1049,7 @@
 		}
 		{
 			height: 2.0d
+			id: "163A3E3245C20CDC"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 20.0d
 			width: 2.0d
@@ -943,6 +1058,7 @@
 		}
 		{
 			height: 2.0d
+			id: "19F5755EC7ED688C"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 20.0d
 			width: 2.0d
@@ -951,6 +1067,7 @@
 		}
 		{
 			height: 1.5d
+			id: "790060C0D6B644B8"
 			image: "atm:textures/questpics/create/create_cog.png"
 			rotation: 22.0d
 			width: 1.5d
@@ -958,7 +1075,7 @@
 			y: 4.5d
 		}
 	]
-	order_index: 5
+	order_index: 6
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

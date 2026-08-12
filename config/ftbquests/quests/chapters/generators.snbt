@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 1.0d
+			id: "6727737E006B2E5C"
 			image: "ironfurnaces:block/copper_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1F6B4340267F3F53"
 			image: "ironfurnaces:block/iron_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "296AC38AC11304DC"
 			image: "ironfurnaces:block/gold_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7179B2F6F77C032A"
 			image: "ironfurnaces:block/silver_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "760940BAD5A6FDA5"
 			image: "ironfurnaces:block/diamond_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2DB410E3CC5700C6"
 			image: "atm:textures/questpics/furnaces/iron_furnaces.png"
 			rotation: 0.0d
 			width: 8.60759493670886d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "59C388527EDDD959"
 			image: "ironfurnaces:block/iron_furnace_front_on_blast"
 			rotation: 0.0d
 			width: 1.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5F486E29622008D9"
 			image: "ironfurnaces:block/iron_furnace_front_on_smoke"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "75CB4AFBE05C8D61"
 			image: "ironfurnaces:block/emerald_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7801DE25347BE655"
 			image: "ironfurnaces:block/crystal_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -90,6 +100,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0EFDAA120035C0D5"
 			image: "ironfurnaces:block/netherite_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -98,6 +109,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5DCCDFC9A6A4945E"
 			image: "ironfurnaces:block/obsidian_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -106,6 +118,7 @@
 		}
 		{
 			height: 1.0d
+			id: "58924F320F2A910D"
 			image: "ironfurnaces:block/million_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -114,6 +127,7 @@
 		}
 		{
 			height: 1.0d
+			id: "285E099FFED03A94"
 			image: "ironfurnaces:block/xmas_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -122,6 +136,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7775A4DE49F0ECC7"
 			image: "ironfurnaces:block/spooky_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -130,6 +145,7 @@
 		}
 		{
 			height: 1.0d
+			id: "706F529BB64AA833"
 			image: "ironfurnaces:block/allthemodium_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -138,6 +154,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4952ECD49C819561"
 			image: "ironfurnaces:block/vibranium_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -146,6 +163,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4B0983D55177AF22"
 			image: "ironfurnaces:block/unobtainium_furnace_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -154,6 +172,7 @@
 		}
 		{
 			height: 0.3d
+			id: "70FBDD11B1AAAB88"
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
@@ -161,7 +180,7 @@
 			y: 5.375d
 		}
 	]
-	order_index: 8
+	order_index: 11
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

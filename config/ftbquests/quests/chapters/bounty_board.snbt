@@ -9,13 +9,14 @@
 	id: "18A429E7F56AF5A9"
 	images: [{
 		height: 3.0d
+		id: "5D2D86178EA889D8"
 		image: "atm:textures/questpics/bounty.png"
 		rotation: 0.0d
 		width: 12.0d
 		x: 0.0d
 		y: -10.0d
 	}]
-	order_index: 5
+	order_index: 6
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

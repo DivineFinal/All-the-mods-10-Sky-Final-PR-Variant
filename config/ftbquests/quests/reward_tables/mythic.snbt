@@ -65,17 +65,6 @@
 			}
 			weight: 2.0f
 		}
-		{
-			id: "1F25C49187176451"
-			item: {
-				components: {
-					"ironjetpacks:jetpack_id": "ironjetpacks:vibranium"
-				}
-				count: 1
-				id: "ironjetpacks:jetpack"
-			}
-			weight: 2.0f
-		}
 		{ id: "792B0BD087FCFDBC", item: { count: 1, id: "allthecompressed:nether_star_block_3x" } }
 	]
 	use_title: true

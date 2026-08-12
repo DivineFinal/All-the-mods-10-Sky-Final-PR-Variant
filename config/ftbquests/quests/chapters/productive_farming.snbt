@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "75F8C53E86398277"
 			image: "atm:textures/questpics/pro_farming/farm_title_crops.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 2.0d
+			id: "228F06A34158F96B"
 			image: "atm:textures/questpics/pro_farming/farm_title_flowers.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 2.0d
+			id: "13DAB51B45680BFB"
 			image: "atm:textures/questpics/pro_farming/farm_title_farm.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6FD9947BB54E4E7D"
 			image: "atm:textures/questpics/pro_farming/farm_title_mutants.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 3.0d
+			id: "5594A90395425244"
 			image: "atm:textures/questpics/pro_farming/farm_title_1.png"
 			rotation: 0.0d
 			width: 11.0d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 3.0d
+			id: "5347C6980BADD8B6"
 			image: "atm:textures/questpics/pro_farming/farm_title_2.png"
 			rotation: 0.0d
 			width: 9.0d
@@ -3680,6 +3686,7 @@
 			size: 2.5d
 			tasks: [{
 				id: "46D65E8318D8B725"
+				observation_type: "block"
 				observe_type: 0
 				timer: 0L
 				to_observe: "minecraft:grass_block"
