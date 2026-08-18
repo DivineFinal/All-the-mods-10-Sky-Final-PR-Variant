@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 4.5d
+			id: "5BC429C7BDD7F8E6"
 			image: "minecraft:textures/item/chest_minecart.png"
 			rotation: 0.0d
 			width: 4.5d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 6.0d
+			id: "400A36DA010ADE55"
 			image: "atm:textures/questpics/storage/functional1.png"
 			rotation: 0.0d
 			width: 8.25d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 4.0d
+			id: "1ADECA6F718699BE"
 			image: "atm:textures/questpics/storage/functional2.png"
 			rotation: 0.0d
 			width: 10.5d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6D1E4DB16A0F846F"
 			image: "atm:textures/questpics/helper_arrow.png"
 			rotation: -90.0d
 			width: 1.4723926380368098d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "67CE172B759259E8"
 			image: "atm:textures/questpics/helper_arrow.png"
 			rotation: 130.0d
 			width: 2.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 2.75d
+			id: "48125D5FBB97C2D5"
 			image: "atm:textures/questpics/storage/sophisticated1.png"
 			rotation: 0.0d
 			width: 5.9d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 2.5d
+			id: "1FF2718A7E0389AD"
 			image: "atm:textures/questpics/storage/sophisticated2.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 4.0d
+			id: "30761E8F2288691B"
 			image: "atm:textures/questpics/storage/sophisticated3.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 3.0d
+			id: "4A9DB391381FC120"
 			image: "integrateddynamics:aspect/read/boolean/inventory/full"
 			rotation: 0.0d
 			width: 3.0d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1440109C35EE257E"
 			image: "sophisticatedstorage:item/packing_tape"
 			rotation: 0.0d
 			width: 1.0d

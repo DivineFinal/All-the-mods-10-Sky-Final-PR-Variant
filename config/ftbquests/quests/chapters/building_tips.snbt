@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "3FCFD957CA61B363"
 			image: "atm:textures/questpics/building_tips/building_building.png"
 			rotation: 0.0d
 			width: 10.025d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2D16508074B0FC64"
 			image: "atm:textures/questpics/building_tips/building_tips.png"
 			rotation: 0.0d
 			width: 4.975d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 2.0d
+			id: "021E2984EBC0EA4C"
 			image: "atm:textures/questpics/building_tips/building_title_climowitz.png"
 			rotation: 0.0d
 			width: 8.75d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 2.0d
+			id: "48B8D5A43E87CC0D"
 			image: "atm:textures/questpics/building_tips/building_title_unka.png"
 			rotation: 0.0d
 			width: 4.725d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 2.0d
+			id: "64EBAC200738E332"
 			image: "atm:textures/questpics/building_tips/building_title_beelumpi.png"
 			rotation: 0.0d
 			width: 7.130434782608695d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 10.0d
+			id: "44DCD503B0A06941"
 			image: "atm:textures/questpics/building_tips/building_mindful.png"
 			rotation: 0.0d
 			width: 20.0d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 26.0d
+			id: "7068428F54A4A188"
 			image: "atm:textures/questpics/building_tips/building_frame.png"
 			rotation: 90.0d
 			width: 16.0d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0BE9C83023023492"
 			image: "atm:textures/questpics/building_tips/building_title_mindful.png"
 			rotation: 0.0d
 			width: 15.0d
@@ -74,7 +82,7 @@
 			y: -44.5d
 		}
 	]
-	order_index: 6
+	order_index: 7
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

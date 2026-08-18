@@ -3,10 +3,14 @@
 	default_quest_shape: "rsquare"
 	filename: "chapter_3_allthemodium"
 	group: "029264819125415F"
+	icon: {
+		id: "allthemodium:allthemodium_ingot"
+	}
 	id: "67E7552FDA3245F5"
 	images: [
 		{
 			height: 2.0d
+			id: "3CAE42278EA5ED7A"
 			image: "atm:textures/questpics/chap3/chap3_title2.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -15,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "63D55978C52FEFDE"
 			image: "atm:textures/questpics/chap3/chap3_title1.png"
 			rotation: 0.0d
 			width: 13.0d
@@ -23,6 +28,7 @@
 		}
 		{
 			height: 5.0d
+			id: "40A99AEEA426A531"
 			image: "allthemodium:block/unobtainium_block"
 			rotation: 0.0d
 			width: 5.0d
@@ -31,6 +37,7 @@
 		}
 		{
 			height: 5.0d
+			id: "5DA634214FAB3992"
 			image: "allthemodium:block/allthemodium_block"
 			rotation: 0.0d
 			width: 5.0d
@@ -39,6 +46,7 @@
 		}
 		{
 			height: 7.0d
+			id: "2B5A327E1A09B241"
 			image: "allthemodium:item/allthemodium_sword"
 			rotation: 135.0d
 			width: 7.0d
@@ -47,6 +55,7 @@
 		}
 		{
 			height: 7.0d
+			id: "6544CC553818B6A2"
 			image: "allthemodium:item/vibranium_helmet"
 			rotation: 0.0d
 			width: 7.0d
@@ -55,6 +64,7 @@
 		}
 		{
 			height: 5.0d
+			id: "60167E3854492CFD"
 			image: "allthemodium:block/vibranium_block"
 			rotation: 0.0d
 			width: 5.0d
@@ -63,6 +73,7 @@
 		}
 		{
 			height: 2.0d
+			id: "32BA1DB8BB2CDB1F"
 			image: "ironfurnaces:block/allthemodium_furnace_front_on_smoke"
 			rotation: 0.0d
 			width: 2.0d
@@ -71,6 +82,7 @@
 		}
 		{
 			height: 2.0d
+			id: "05922DFCD7889344"
 			image: "ironfurnaces:block/vibranium_furnace_front_on_smoke"
 			rotation: 0.0d
 			width: 2.0d
@@ -79,6 +91,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2F56E9B2322C28E1"
 			image: "ironfurnaces:block/unobtainium_furnace_front_on_smoke"
 			rotation: 0.0d
 			width: 2.0d
@@ -87,6 +100,7 @@
 		}
 		{
 			height: 2.0d
+			id: "509579B625831490"
 			image: "allthemodium:block/allthemodium_ore"
 			rotation: 0.0d
 			width: 2.0d
@@ -95,6 +109,7 @@
 		}
 		{
 			height: 2.0d
+			id: "212D824D22BE6879"
 			image: "allthemodium:block/unobtainium_ore"
 			rotation: 0.0d
 			width: 2.0d
@@ -103,6 +118,7 @@
 		}
 		{
 			height: 3.0d
+			id: "60F22A83BE75EB9B"
 			image: "allthemodium:block/other_vibranium_ore"
 			rotation: 0.0d
 			width: 3.0d
@@ -1057,7 +1073,11 @@
 			y: 0.5d
 		}
 		{
-			dependencies: ["665980EC12F695E9"]
+			dependencies: [
+				"665980EC12F695E9"
+				"783D0526952AD0BD"
+			]
+			dependency_requirement: "one_completed"
 			id: "6F37F7ABBBA910B2"
 			rewards: [{
 				count: 2
@@ -1379,6 +1399,91 @@
 			}]
 			x: 3.5d
 			y: -5.0d
+		}
+		{
+			icon: {
+				id: "enderio:vat"
+			}
+			id: "783D0526952AD0BD"
+			rewards: [{
+				count: 4
+				id: "4D90A9EFEA2B2651"
+				item: {
+					count: 1
+					id: "apothic_enchanting:warden_tendril"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			tasks: [
+				{
+					id: "15830C3CE5DD5306"
+					item: { count: 1, id: "enderio:vat" }
+					type: "item"
+				}
+				{
+					id: "309623BFEE7E4497"
+					item: { count: 1, id: "allthecompressed:soul_sand_1x" }
+					type: "item"
+				}
+				{
+					id: "6F9BB473C3763E82"
+					item: { count: 1, id: "apothic_enchanting:warden_tendril" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6F37F7ABBBA910B2"]
+			id: "1C29E6147752EE97"
+			rewards: [
+				{
+					id: "51550F58521AAAFA"
+					item: {
+						count: 1
+						id: "geore:budding_allthemodium"
+					}
+					type: "item"
+				}
+				{
+					id: "406C957C0417C890"
+					item: {
+						count: 1
+						id: "geore:budding_vibranium"
+					}
+					type: "item"
+				}
+				{
+					id: "0F2D74AA2B31CB3B"
+					item: {
+						count: 1
+						id: "geore:budding_unobtainium"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [
+				{
+					id: "1445FCF0386A3B2F"
+					item: { count: 1, id: "geore:budding_allthemodium" }
+					type: "item"
+				}
+				{
+					id: "57DE4E5089E2BCC4"
+					item: { count: 1, id: "geore:budding_vibranium" }
+					type: "item"
+				}
+				{
+					id: "7234A76689D2D2AE"
+					item: { count: 1, id: "geore:budding_unobtainium" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 7.5d
 		}
 	]
 }

@@ -14,6 +14,7 @@
 	chapter.12AD9789D962B179.title: "&fApothic Enchanting"
 	chapter.18A429E7F56AF5A9.title: "&fBounty Board"
 	chapter.193F91842D2ED7D9.title: "&fIndustrial Foregoing"
+	chapter.1A5BA37AB2194685.title: "&fChapter 5: Creative Items"
 	chapter.1BE666F01EFFC00D.title: "&fTips and Tricks"
 	chapter.1D42B373285DEF81.chapter_subtitle: ["And Productive Metalworks"]
 	chapter.1D42B373285DEF81.title: "&fSilent Gear"
@@ -29,6 +30,7 @@
 	chapter.2A6EBEEBAB882679.title: "&fPowah"
 	chapter.2FB24A5A597459FC.title: "&fRailCraft"
 	chapter.306DBE1EBB85D02E.title: "&fThe Electric Age"
+	chapter.3240E735E45E643E.title: "&fEnder IO"
 	chapter.37BC0E99F564D560.title: "&fSteam Age"
 	chapter.399A4F6D9CF8E1C9.title: "&fThe Nuclear Age"
 	chapter.3B0302DB5E77C3A2.title: "&fChapter 1: Starting out"
@@ -54,7 +56,6 @@
 	chapter.5C764279146E5E66.title: "Mystical Agriculture"
 	chapter.5D045EF1AB73DF70.title: "&fBasic Power"
 	chapter.5E31DF282998B992.title: "&fPneumaticCraft"
-	chapter.634794CB36D61302.chapter_subtitle: [ ]
 	chapter.634794CB36D61302.title: "&fChapter 4: The ATM Star"
 	chapter.67E7552FDA3245F5.title: "&fChapter 3: AllTheModium"
 	chapter.69299302373C4CBC.title: "&fIntegrated Dynamics"
@@ -63,6 +64,7 @@
 	chapter.6B13AF321AC831D1.title: "&fAge of Oil and Blastproof Plates"
 	chapter.6F08373A5277EF1C.title: "&fBaubley Heart Canisters"
 	chapter.73180B829B960E63.title: "&fIron Furnaces"
+	chapter.76A0FBADACAD322B.title: "&fNeo Vitae"
 	chapter.76DF5FAA7961E5E7.title: "Iron's Spells 'n Spellbooks"
 	chapter.7A5C327771634A7D.title: "&fBuilding Tips"
 }

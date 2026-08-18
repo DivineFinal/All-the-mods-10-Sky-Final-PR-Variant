@@ -15,6 +15,8 @@
 	quest.19D9C6110D72EA7E.quest_desc: ["This is every &bSieve&r Block. \\n\\n&2Moss &fand &cRed Sand&r use 5x Compressed and everything else listed uses 6x Compressed."]
 	quest.19E8DD3B8554BF57.quest_desc: ["The &5Unobtainium Upgrade&r follows the same pattern. \\n\\nYou'll need a &5Block of Unobtainium&r, 7 &3Vibranium Ingots&r, and a &3Vibranium Upgrade Template&r. \\n\\nYou can duplicate them with another 7 &3Vibranium Ingots&f and a singular &eEndstone&r!"]
 	quest.19E8DD3B8554BF57.title: "&5Unobtainium Upgrade Template"
+	quest.1C29E6147752EE97.quest_desc: ["Don't like bees? You might prefer to use GeOres instead. Use the &c&lFoundry&r to pour 9 &6AllTheModium Ingots&r onto Sand 5x (59 049 Sand in total) to create a &6Budding Allthemodium GeOre&r. Same deal for &3Vibranium&r and &5Unobtainium&r, but with pouring those respective materials instead."]
+	quest.1C29E6147752EE97.title: "Budding ATM Metal GeOres"
 	quest.208734A50051ECEC.quest_desc: [
 		"Like Upgrading anything to &6AllTheModium&r, you'll need an &6AllTheModium Ingot&f and &6AllTheModium Upgrade&r. \\n\\nYou'll just also need an &dArchmage's Spellbook&r! \\n\\nThe &6AllTheModium &dSpellbook&r will be able to Cast Tier 4 Glyphs. We don't exactly have any of those, though...it does let us use up to 12 glyphs per spell though. Make sure to keep an eye out for an arrow next to the Glyphs, like so:"
 		"{image:atm:textures/questpics/chap3/spell_book_arrow.png width:300 height:50 align:center}"
@@ -83,6 +85,9 @@
 	quest.6F930E97EB804F15.title: "&2Uraninite GeOre"
 	quest.737A779F82686366.quest_desc: ["Why use that &6AllTheModium&r on unnecessary stuff, like &6Tools&r and &6Armor&r, when you can make Snacks! \\n\\nThe &6AllTheModium Carrot&r will give 20 Food Points. That's equal to 5 Steaks! It also gives 160 Saturation Points. That's slightly over 21 &eGolden Carrots&r! \\nYou won't have to worry about feeling Hungry for a long time. \\n\\nThe &6AllTheModium Apple&r gives less, with only 10 Hunger Points and 40 Saturation Points. \\n\\nSo why make and Eat the &6Apple&r instead? Maybe because it gives Regeneration and Absorption!"]
 	quest.737A779F82686366.title: "&6AllTheModium&r Food?"
+	quest.783D0526952AD0BD.quest_desc: ["An alternative way of getting &9Soul Lava&r is through the &2VAT&r. Mix Soul Sand 1x with a &3Warden Tendril&r in Lava to transform it into &9Soul Lava&r. Yes, it still involves a &3&lWarden&r."]
+	quest.783D0526952AD0BD.quest_subtitle: "An alternative for the less drilly"
+	quest.783D0526952AD0BD.title: "&2VAT"
 	quest.7DE7E266A42E822E.quest_desc: ["The &3Vibranium Pickaxe&r will be needed to Mine &5Unobtainium&r. \\n\\nThe &3Shovel &fand &3Hoe&r just do their job quicker. \\n\\nWell I mean the &3Pickaxe&r does as well, it's just more unique!"]
 	task.2954E9A84730D187.title: "&6AllTheModium Weapons"
 	task.2FCC2AAD26F80D20.title: "&6AllTheModium &dArcanist Gear"

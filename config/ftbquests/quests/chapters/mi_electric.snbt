@@ -2,20 +2,21 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "mi_electric"
-	group: "63C9361F0D859633"
+	group: "1D62E0CCB4761288"
 	icon: {
 		id: "modern_industrialization:stainless_steel_ingot"
 	}
 	id: "5C4F10E65D86ED0E"
 	images: [{
 		height: 5.5d
+		id: "44C496057B9B668F"
 		image: "atm:textures/questpics/modernindustrialization/ebf.png"
 		rotation: 0.0d
 		width: 4.5d
 		x: 7.0d
 		y: -9.0d
 	}]
-	order_index: 11
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{

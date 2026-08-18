@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 6.0d
+			id: "5A1A3B787E472489"
 			image: "atm:textures/questpics/id_title.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5D73F765C762D4B6"
 			image: "integrateddynamics:item/labeller"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0A689637CC00074E"
 			image: "integratedterminals:part/terminal_storage"
 			rotation: 0.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5199FC33D780DBD8"
 			image: "integratedcrafting:part/interface_crafting"
 			rotation: 0.0d
 			width: 1.0d
@@ -41,7 +45,7 @@
 			y: 2.5d
 		}
 	]
-	order_index: 6
+	order_index: 10
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

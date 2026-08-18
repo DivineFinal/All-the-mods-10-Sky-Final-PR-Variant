@@ -9,9 +9,9 @@
 	id: "51A2FE60D8B76FC6"
 	images: [
 		{
-			click: "#78215D704E6095B0"
+			click_action: "open_quest:78215D704E6095B0"
 			height: 1.0d
-			hover: ["Quantum Helmet"]
+			id: "390EB054B4ABEFFE"
 			image: "advanced_ae:item/quantum_helmet_base"
 			rotation: 0.0d
 			width: 1.0d
@@ -19,9 +19,9 @@
 			y: 6.5d
 		}
 		{
-			click: "#78215D704E6095B0"
+			click_action: "open_quest:78215D704E6095B0"
 			height: 1.0d
-			hover: ["Quantum Chestplate"]
+			id: "41706D85D8F16E88"
 			image: "advanced_ae:item/quantum_chestplate_base"
 			rotation: 0.0d
 			width: 1.0d
@@ -29,9 +29,9 @@
 			y: 6.5d
 		}
 		{
-			click: "#78215D704E6095B0"
+			click_action: "open_quest:78215D704E6095B0"
 			height: 1.0d
-			hover: ["Quantum Leggings"]
+			id: "03A45BA910627C48"
 			image: "advanced_ae:item/quantum_leggings_base"
 			rotation: 0.0d
 			width: 1.0d
@@ -39,9 +39,9 @@
 			y: 6.5d
 		}
 		{
-			click: "#78215D704E6095B0"
+			click_action: "open_quest:78215D704E6095B0"
 			height: 1.0d
-			hover: ["Quantum Boots"]
+			id: "4D165F79EB9AE851"
 			image: "advanced_ae:item/quantum_boots_base"
 			rotation: 0.0d
 			width: 1.0d
@@ -50,6 +50,7 @@
 		}
 		{
 			height: 5.0d
+			id: "20136F246DE3F3BA"
 			image: "atm:textures/questpics/extended_advanced_ae/quantum_computer.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -58,6 +59,7 @@
 		}
 		{
 			height: 5.0d
+			id: "3B4C76675808AF76"
 			image: "atm:textures/questpics/extended_advanced_ae/assembler_matrix.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -66,6 +68,7 @@
 		}
 		{
 			height: 3.0d
+			id: "22F35228B4939054"
 			image: "atm:textures/questpics/extended_advanced_ae/title.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -75,6 +78,7 @@
 		{
 			color: 7344293
 			height: 1.0d
+			id: "04F4E733477303B5"
 			image: "advanced_ae:item/quantum_helmet_tint"
 			rotation: 0.0d
 			width: 1.0d
@@ -84,6 +88,7 @@
 		{
 			color: 7344293
 			height: 1.0d
+			id: "2880F7B38B83D9F3"
 			image: "advanced_ae:item/quantum_chestplate_tint"
 			rotation: 0.0d
 			width: 1.0d
@@ -93,6 +98,7 @@
 		{
 			color: 7344293
 			height: 1.0d
+			id: "76C526E87B272EBC"
 			image: "advanced_ae:item/quantum_leggings_tint"
 			rotation: 0.0d
 			width: 1.0d
@@ -102,6 +108,7 @@
 		{
 			color: 7344293
 			height: 1.0d
+			id: "431F119916B93039"
 			image: "advanced_ae:item/quantum_boots_tint"
 			rotation: 0.0d
 			width: 1.0d
@@ -164,6 +171,7 @@
 						id: "extendedae:entro_budding_fully"
 					}
 					id: "565F08113205DDBA"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "extendedae:entro_budding_fully"

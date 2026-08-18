@@ -8,16 +8,16 @@
 	}
 	id: "1FAAEF0B9FD05CB9"
 	images: [{
-		click: "https://youtu.be/5kKjlCsmfcc?si=I_jZPW6TzqHpb8OD"
+		click_action: "open_uri:https://youtu.be/5kKjlCsmfcc?si=I_jZPW6TzqHpb8OD"
 		height: 1.0d
-		hover: ["Pilpoh's Productive Trees Guide"]
+		id: "701394AF8C97A928"
 		image: "minecraft:textures/gui/sprites/toast/tree.png"
 		rotation: 0.0d
 		width: 1.0d
 		x: 4.5d
 		y: 12.0d
 	}]
-	order_index: 18
+	order_index: 19
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

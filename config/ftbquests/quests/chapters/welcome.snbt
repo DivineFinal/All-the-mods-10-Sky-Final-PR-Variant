@@ -9,9 +9,9 @@
 	id: "5B00676D79306EA2"
 	images: [
 		{
-			click: "https://discord.gg/3paFjuRfz9"
+			click_action: "open_uri:https://discord.gg/3paFjuRfz9"
 			height: 1.0d
-			hover: ["Join the Discord!"]
+			id: "50EF5E957195FBAA"
 			image: "ftbchunks:textures/waypoint_default.png"
 			rotation: 180.0d
 			width: 1.0d
@@ -20,6 +20,7 @@
 		}
 		{
 			height: 10.0d
+			id: "5F3F5188800865CA"
 			image: "atm:textures/questpics/logo.png"
 			rotation: 0.0d
 			width: 10.0d

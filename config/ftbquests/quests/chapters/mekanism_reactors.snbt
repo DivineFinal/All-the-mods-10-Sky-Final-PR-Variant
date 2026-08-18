@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "348E511EA9EDAFBC"
 			image: "atm:textures/questpics/mek/mek_title_reactor.png"
 			rotation: 0.0d
 			width: 11.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7A5DA4B85BFD3A0C"
 			image: "atm:textures/questpics/mek/mek_title_qio.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 1.0d
+			id: "242712CA4A0E83B5"
 			image: "atm:textures/questpics/mek/mek_title_matrix.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 1.5d
+			id: "17EC0D8F2428D11D"
 			image: "atm:textures/questpics/mek/mek_title_fission.png"
 			rotation: 0.0d
 			width: 9.0d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 1.0d
+			id: "298EEA0274103B91"
 			image: "atm:textures/questpics/mek/mek_title_turbine.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6E0D3B6935DD6A83"
 			image: "atm:textures/questpics/mek/mek_title_boiler.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 2.0d
+			id: "47B60FB967D9A2B6"
 			image: "atm:textures/questpics/mek/mek_title_sps.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 1.0d
+			id: "174FDDF42BD88FEA"
 			image: "atm:textures/questpics/mek/mek_title_fusion.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4566DAE118015E9E"
 			image: "atm:textures/questpics/mek/mek_title_module.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0FC0438451672633"
 			image: "atm:textures/questpics/mek/mek_title_suit.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 3.5d
+			id: "547D7097BD4998D9"
 			image: "atm:textures/questpics/mek/mek_fission4.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 4.0d
+			id: "484EB21E1D762939"
 			image: "atm:textures/questpics/mek/mek_turbine7.png"
 			rotation: 0.0d
 			width: 3.5d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 3.0d
+			id: "4C1F4BD27BE54895"
 			image: "atm:textures/questpics/mek/mek_boiler4.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -115,6 +128,7 @@
 		}
 		{
 			height: 3.0d
+			id: "11E52E0A19DC645C"
 			image: "atm:textures/questpics/mek/mek_fusion5.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -123,6 +137,7 @@
 		}
 		{
 			height: 4.0d
+			id: "55C1801A7805BBC8"
 			image: "atm:textures/questpics/mek/mek_sps7.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -131,6 +146,7 @@
 		}
 		{
 			height: 1.0d
+			id: "453AF93AD15D21B8"
 			image: "atm:textures/questpics/mek/mek_matrix4.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -139,6 +155,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3DC349FCAEEB62C4"
 			image: "atm:textures/questpics/mek/mek_qio.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -147,6 +164,7 @@
 		}
 		{
 			height: 1.5d
+			id: "3FF77A6E6F437857"
 			image: "atm:textures/questpics/mek/mek_title_antimatter.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -154,7 +172,7 @@
 			y: -23.0d
 		}
 	]
-	order_index: 5
+	order_index: 6
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

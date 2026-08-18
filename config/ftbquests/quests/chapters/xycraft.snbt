@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 3.0d
+			id: "5577906022AE2C41"
 			image: "atm:textures/questpics/xycraft/balloon.png"
 			rotation: 0.0d
 			width: 2.0348837209302326d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 3.0d
+			id: "18264620963C3C03"
 			image: "atm:textures/questpics/xycraft/extractor.png"
 			rotation: 0.0d
 			width: 3.294117647058824d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6D2B613B57055EDE"
 			image: "atm:textures/questpics/xycraft/xycraft.png"
 			rotation: -90.0d
 			width: 5.132530120481928d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 3.0d
+			id: "770B745A8F5E272D"
 			image: "atm:textures/questpics/xycraft/tank.png"
 			rotation: 0.0d
 			width: 3.1714285714285717d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4609714FF0E4A5F3"
 			image: "atm:textures/questpics/xycraft/fabricator.png"
 			rotation: 0.0d
 			width: 4.265822784810126d
@@ -50,7 +55,7 @@
 			y: 4.0d
 		}
 	]
-	order_index: 20
+	order_index: 22
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

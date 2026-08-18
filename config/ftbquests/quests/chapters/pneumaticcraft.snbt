@@ -13,6 +13,7 @@
 	images: [
 		{
 			height: 7.0d
+			id: "15A9BBD287877732"
 			image: "atm:textures/questpics/pneumaticcraft/pressure_chamber.png"
 			rotation: 0.0d
 			width: 12.41d
@@ -21,6 +22,7 @@
 		}
 		{
 			height: 8.0d
+			id: "4AB44E0B82C91748"
 			image: "atm:textures/questpics/pneumaticcraft/assembly_line.png"
 			rotation: 0.0d
 			width: 15.21d
@@ -29,6 +31,7 @@
 		}
 		{
 			height: 8.0d
+			id: "47B95767DF35FACB"
 			image: "atm:textures/questpics/pneumaticcraft/pneumatic_set.png"
 			rotation: 0.0d
 			width: 8.806722689075631d
@@ -37,6 +40,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3094F0B9FAC007A0"
 			image: "pneumaticcraft:item/pneumatic_helmet"
 			rotation: 0.0d
 			width: 1.0d
@@ -45,6 +49,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0204DDC976A7DCA3"
 			image: "pneumaticcraft:item/pneumatic_chestplate"
 			rotation: 0.0d
 			width: 1.0d
@@ -53,6 +58,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6CA96734A388E02D"
 			image: "pneumaticcraft:item/pneumatic_leggings"
 			rotation: 0.0d
 			width: 1.0d
@@ -61,6 +67,7 @@
 		}
 		{
 			height: 1.0d
+			id: "43E5BDA337E7CFD4"
 			image: "pneumaticcraft:item/pneumatic_boots"
 			rotation: 0.0d
 			width: 1.0d
@@ -69,6 +76,7 @@
 		}
 		{
 			height: 1.0d
+			id: "50A40C134B49C488"
 			image: "ftblibrary:textures/faces/pneumaticcraft/amadrone.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -77,6 +85,7 @@
 		}
 		{
 			height: 1.0d
+			id: "67BC37BA3C3BF60E"
 			image: "ftblibrary:textures/faces/pneumaticcraft/drone.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -85,6 +94,7 @@
 		}
 		{
 			height: 1.0d
+			id: "15D10B1B37BBA737"
 			image: "pneumaticcraft:item/salmon_tempura"
 			rotation: 0.0d
 			width: 1.0d
@@ -93,6 +103,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3FFD1C6543110518"
 			image: "pneumaticcraft:item/sourdough_bread"
 			rotation: 0.0d
 			width: 1.0d
@@ -100,8 +111,9 @@
 			y: 8.5d
 		}
 		{
-			click: "#3CFE522A4B7CC2EC"
+			click_action: "open_quest:3CFE522A4B7CC2EC"
 			height: 1.0d
+			id: "45202B97D0FB67E5"
 			image: "pneumaticcraft:block/chest/front_panel"
 			rotation: 0.0d
 			width: 1.0d
@@ -109,8 +121,9 @@
 			y: -1.5d
 		}
 		{
-			click: "#440B1E1D4951F808"
+			click_action: "open_quest:440B1E1D4951F808"
 			height: 1.0d
+			id: "0B493DA73CFECFF3"
 			image: "pneumaticcraft:block/chest/front_panel_smart"
 			rotation: 0.0d
 			width: 1.0d
@@ -119,6 +132,7 @@
 		}
 		{
 			height: 1.0d
+			id: "531D64B3E81DDC1A"
 			image: "pneumaticcraft:item/seismic_sensor"
 			rotation: 0.0d
 			width: 1.0d
@@ -127,6 +141,7 @@
 		}
 		{
 			height: 4.0d
+			id: "25551D6CD66A608F"
 			image: "atm:textures/questpics/pneumaticcraft/pnc_title.png"
 			rotation: 0.0d
 			width: 16.7d
@@ -135,6 +150,7 @@
 		}
 		{
 			height: 3.0d
+			id: "10525F9880DD640B"
 			image: "atm:textures/questpics/pneumaticcraft/pnc_logo.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -142,7 +158,7 @@
 			y: -3.5d
 		}
 	]
-	order_index: 7
+	order_index: 8
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

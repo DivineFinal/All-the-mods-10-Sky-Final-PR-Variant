@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 2.0d
+			id: "26635F376F966A6A"
 			image: "minecraft:textures/item/cake.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -18,6 +19,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2DB9F4A37493929E"
 			image: "minecraft:textures/item/wheat.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -26,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3D378DF9B756345A"
 			image: "minecraft:textures/item/wheat.png"
 			rotation: -90.0d
 			width: 1.0d
@@ -34,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "022A9F656CA485A7"
 			image: "minecraft:textures/item/wheat_seeds.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -42,6 +46,7 @@
 		}
 		{
 			height: 2.0d
+			id: "131D641758BDD9C8"
 			image: "minecraft:textures/block/birch_sapling.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -50,6 +55,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1704CCD1AE882A89"
 			image: "minecraft:block/hay_block_side"
 			rotation: -90.0d
 			width: 2.0d
@@ -58,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2D167AFE3815647E"
 			image: "minecraft:item/torchflower_seeds"
 			rotation: 0.0d
 			width: 1.0d
@@ -66,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "729BCFF6951EB14A"
 			image: "minecraft:textures/item/cooked_chicken.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -74,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "74B758AD55467D8A"
 			image: "minecraft:textures/item/cooked_porkchop.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -82,6 +91,7 @@
 		}
 		{
 			height: 3.0d
+			id: "3F851B2443250CC6"
 			image: "atm:textures/questpics/food_and_farming.png"
 			rotation: 0.0d
 			width: 12.0d
@@ -89,7 +99,7 @@
 			y: -5.5d
 		}
 	]
-	order_index: 8
+	order_index: 9
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -335,13 +345,13 @@
 				{
 					count: 10L
 					id: "611CC8005150DC9B"
-					item: { count: 10, id: "minecraft:feather" }
+					item: { count: 1, id: "minecraft:feather" }
 					type: "item"
 				}
 				{
 					count: 5L
 					id: "0CAC6A36AC5A6708"
-					item: { count: 5, id: "minecraft:chicken" }
+					item: { count: 1, id: "minecraft:chicken" }
 					type: "item"
 				}
 			]
@@ -1238,19 +1248,19 @@
 				{
 					count: 10L
 					id: "11AE0F1C74748697"
-					item: { count: 10, id: "minecraft:cod" }
+					item: { count: 1, id: "minecraft:cod" }
 					type: "item"
 				}
 				{
 					count: 10L
 					id: "1A8CCCE8A7192559"
-					item: { count: 10, id: "minecraft:salmon" }
+					item: { count: 1, id: "minecraft:salmon" }
 					type: "item"
 				}
 				{
 					count: 10L
 					id: "34CD5473AC47D906"
-					item: { count: 10, id: "minecraft:tropical_fish" }
+					item: { count: 1, id: "minecraft:tropical_fish" }
 					type: "item"
 				}
 				{

@@ -3,10 +3,14 @@
 	default_quest_shape: "hexagon"
 	filename: "chapter_2_the_cool_parts"
 	group: "029264819125415F"
+	icon: {
+		id: "generatorgalore:magmatic_generator"
+	}
 	id: "28BCA5042050B140"
 	images: [
 		{
 			height: 2.0d
+			id: "7EA71E35DB472681"
 			image: "atm:textures/questpics/chap2/chap2_title1.png"
 			rotation: 0.0d
 			width: 9.0d
@@ -15,6 +19,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4C4246BC7E562BA1"
 			image: "atm:textures/questpics/chap2/chap2_title2.png"
 			rotation: 0.0d
 			width: 14.0d
@@ -23,6 +28,7 @@
 		}
 		{
 			height: 1.0d
+			id: "33526514F314BD69"
 			image: "atm:textures/questpics/chap2/chap2_title_growth.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -31,6 +37,7 @@
 		}
 		{
 			height: 1.0d
+			id: "13173129A86A6495"
 			image: "atm:textures/questpics/chap2/chap2_title_ae2.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -39,6 +46,7 @@
 		}
 		{
 			height: 1.0d
+			id: "21B800245970FE5C"
 			image: "atm:textures/questpics/chap2/chap2_title_nether.png"
 			rotation: -45.0d
 			width: 4.0d
@@ -47,6 +55,7 @@
 		}
 		{
 			height: 1.0d
+			id: "06139658EC85E6E7"
 			image: "atm:textures/questpics/chap2/chap2_title_end.png"
 			rotation: -45.0d
 			width: 4.0d
@@ -55,6 +64,7 @@
 		}
 		{
 			height: 1.0d
+			id: "131B569315CEAA27"
 			image: "atm:textures/questpics/chap2/chap2_title_netherite.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -63,6 +73,7 @@
 		}
 		{
 			height: 1.0d
+			id: "53A03C7FB0C3240B"
 			image: "atm:textures/questpics/chap2/chap2_title_atm.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -71,6 +82,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0D56BCD6C442BDCE"
 			image: "atm:textures/questpics/chap2/chap2_title_meka.png"
 			rotation: 45.0d
 			width: 4.0d
@@ -79,6 +91,7 @@
 		}
 		{
 			height: 1.0d
+			id: "75B6937FB9245C3A"
 			image: "atm:textures/questpics/chap2/chap2_title_create.png"
 			rotation: 45.0d
 			width: 3.0d
@@ -87,6 +100,7 @@
 		}
 		{
 			height: 1.0d
+			id: "21661419F6A36A3A"
 			image: "atm:textures/questpics/chap2/chap2_title_mob.png"
 			rotation: 45.0d
 			width: 4.0d
@@ -95,6 +109,7 @@
 		}
 		{
 			height: 1.0d
+			id: "36CE60D63BC435A6"
 			image: "atm:textures/questpics/chap2/chap2_title_flux.png"
 			rotation: 45.0d
 			width: 2.0d
@@ -103,6 +118,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7C3407D8D515779F"
 			image: "atm:textures/questpics/chap2/chap2_title_powah.png"
 			rotation: 45.0d
 			width: 3.0d
@@ -111,6 +127,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0CFB204C69A2D93C"
 			image: "atm:textures/questpics/chap2/chap2_title_gens.png"
 			rotation: 0.0d
 			width: 8.0d
@@ -119,6 +136,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3717F6C0761B0C4F"
 			image: "atm:textures/questpics/chap2/chap2_title_ma.png"
 			rotation: -45.0d
 			width: 6.0d
@@ -127,6 +145,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2085A212500A38F7"
 			image: "atm:textures/questpics/chap2/chap2_title_foundry.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -135,6 +154,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5FD4DBBFC8E4E97A"
 			image: "atm:textures/questpics/chap2/chap2_title_geore.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -143,6 +163,7 @@
 		}
 		{
 			height: 1.0d
+			id: "69A767D8EA5322BB"
 			image: "atm:textures/questpics/chap2/chap2_title_auto.png"
 			rotation: 45.0d
 			width: 5.0d
@@ -151,6 +172,7 @@
 		}
 		{
 			height: 3.0d
+			id: "1B9F8A75F1F60A49"
 			image: "atm:textures/questpics/chap2/chap2_sieve.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -159,6 +181,7 @@
 		}
 		{
 			height: 2.0d
+			id: "76569CA85C5A89E9"
 			image: "chisel_chipped_integration:block/futura_me_controller_ae2_center"
 			rotation: 0.0d
 			width: 2.0d
@@ -167,6 +190,7 @@
 		}
 		{
 			height: 5.0d
+			id: "1F286FBB2E8601A4"
 			image: "atm:textures/questpics/mystical_agriculture/infusion_altar.png"
 			rotation: 0.0d
 			width: 9.0d
@@ -175,6 +199,7 @@
 		}
 		{
 			height: 3.0d
+			id: "74C108BE002B2497"
 			image: "atm:textures/questpics/chap2/chap2_mashing.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -183,6 +208,7 @@
 		}
 		{
 			height: 3.0d
+			id: "505D948B3EFDC8EB"
 			image: "atm:textures/questpics/chap2/chap2_gen.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -191,6 +217,7 @@
 		}
 		{
 			height: 4.0d
+			id: "6C8D0BC90270458D"
 			image: "atm:textures/questpics/enderdragon.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -199,6 +226,7 @@
 		}
 		{
 			height: 3.0d
+			id: "0EA065E9EA8441F7"
 			image: "atm:textures/questpics/wither.png"
 			rotation: 0.0d
 			width: 3.0d
@@ -207,6 +235,7 @@
 		}
 		{
 			height: 3.0d
+			id: "59BCBD2838ADE0A2"
 			image: "atm:textures/questpics/chap2/chap2_foundry.png"
 			rotation: 0.0d
 			width: 4.0d
@@ -215,6 +244,7 @@
 		}
 		{
 			height: 2.5d
+			id: "530803D7F90D24D5"
 			image: "atm:textures/questpics/chap2/chap2_geore.png"
 			rotation: 0.0d
 			width: 2.5d
@@ -223,6 +253,7 @@
 		}
 		{
 			height: 2.5d
+			id: "335FCBE3124F977D"
 			image: "atm:textures/questpics/chap2/chap2_mesh.png"
 			rotation: 0.0d
 			width: 2.5d
@@ -231,6 +262,7 @@
 		}
 		{
 			height: 1.0d
+			id: "38414CB9012A402E"
 			image: "generatorgalore:block/enchantment_generator_top_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -239,6 +271,7 @@
 		}
 		{
 			height: 1.0d
+			id: "26D92F3260142474"
 			image: "generatorgalore:block/culinary_generator_top_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -247,6 +280,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3FC20D52C74466C9"
 			image: "generatorgalore:block/netherstar_generator_top_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -255,6 +289,7 @@
 		}
 		{
 			height: 1.0d
+			id: "705AB9E23E53809E"
 			image: "generatorgalore:block/iron_generator_top_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -1449,7 +1484,7 @@
 					id: "68804A31C14BADD8"
 					item: {
 						count: 1
-						id: "apotheosis:common_material"
+						id: "apotheosis:mysterious_scrap_metal"
 					}
 					type: "item"
 				}
@@ -1458,7 +1493,7 @@
 					id: "77735B9D3108DF3A"
 					item: {
 						count: 1
-						id: "apotheosis:uncommon_material"
+						id: "apotheosis:timeworn_fabric"
 					}
 					type: "item"
 				}
@@ -1979,7 +2014,7 @@
 				{
 					count: 8L
 					id: "290D9EBBD6EB7242"
-					item: { count: 8, id: "mysticalagriculture:infusion_pedestal" }
+					item: { count: 1, id: "mysticalagriculture:infusion_pedestal" }
 					type: "item"
 				}
 			]
