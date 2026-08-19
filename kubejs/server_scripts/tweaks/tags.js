@@ -312,7 +312,7 @@ ServerEvents.tags("fluid", (allthemods) => {
 ServerEvents.tags("entity_type", (allthemods) => {
   allthemods.add("c:bosses", ["allthemodium:piglich", "#neoforge:bosses"])
 
-  allthemods.add('c:capturing_not_supported', 'mekanism:robit');
+  allthemods.add("c:capturing_not_supported", "mekanism:robit")
 
   allthemods.add("allthemods:entity_blacklist", [
     "ars_nouveau:animated_block",
