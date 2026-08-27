@@ -40,10 +40,12 @@ ServerEvents.recipes((allthemods) => {
 
   allthemods.shapeless(Item.of("minecraft:honey_block"), ["9x mysticalagriculture:honey_essence"])
 
-  allthemods.shaped(Item.of("herbsandharvest:dinner_plate", 4), ["Q Q", " S ", "Q Q"], {
-	Q: "#c:gems/quartz",
-	S: "minecraft:quartz_slab"
-  }).id("herbsandharvest:dinner_plate")
+  allthemods
+    .shaped(Item.of("herbsandharvest:dinner_plate", 4), ["Q Q", " S ", "Q Q"], {
+      Q: "#c:gems/quartz",
+      S: "minecraft:quartz_slab"
+    })
+    .id("herbsandharvest:dinner_plate")
 
   allthemods.remove({ id: "minecraft:netherite_upgrade_smithing_template" })
   allthemods.shaped(Item.of("minecraft:netherite_upgrade_smithing_template"), ["DTD", "DND", "DDD"], {
