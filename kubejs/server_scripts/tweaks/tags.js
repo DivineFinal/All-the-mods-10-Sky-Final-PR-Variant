@@ -55,6 +55,9 @@ ServerEvents.tags("block", (allthemods) => {
 
   // Oritech
   allthemods.add("c:storage_blocks/steel", "oritech:biosteel_block")
+
+  // Mekanism Cardboard Box voids packed Sophisticated Storage chests
+  allthemods.add("mekanism:cardboard_blacklist", /^sophisticatedstorage:.*/)
 })
 
 ServerEvents.tags("item", (allthemods) => {
@@ -309,6 +312,9 @@ ServerEvents.tags("item", (allthemods) => {
 
   // Oritech
   allthemods.add("c:storage_blocks/steel", "oritech:biosteel_block")
+
+  // Herbs and Harvest salt is only in c:items/salt
+  allthemods.add("c:dusts/salt", "herbsandharvest:salt")
 })
 
 ServerEvents.tags("fluid", (allthemods) => {
