@@ -253,12 +253,6 @@
 								id: "mekanism:fissile_fuel"
 							}]
 						}
-						"mekanism:owner": [I;
-							1448333235
-							-1957933073
-							-1931931567
-							1246553530
-						]
 					}
 					count: 1
 					id: "mekanism:basic_chemical_tank"
@@ -520,12 +514,6 @@
 									id: "mekanism:fissile_fuel"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 						}
 						count: 1
 						id: "mekanism:basic_chemical_tank"
@@ -784,12 +772,6 @@
 								id: "mekanism:fissile_fuel"
 							}]
 						}
-						"mekanism:owner": [I;
-							1448333235
-							-1957933073
-							-1931931567
-							1246553530
-						]
 					}
 					count: 1
 					id: "mekanism:basic_chemical_tank"
@@ -1540,12 +1522,6 @@
 									id: "mekanism:antimatter"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 						}
 						count: 1
 						id: "mekanism:ultimate_chemical_tank"
@@ -1608,12 +1584,6 @@
 								id: "mekanism:fissile_fuel"
 							}]
 						}
-						"mekanism:owner": [I;
-							1448333235
-							-1957933073
-							-1931931567
-							1246553530
-						]
 					}
 					count: 1
 					id: "mekanism:basic_chemical_tank"
@@ -1798,12 +1768,6 @@
 									id: "mekanismgenerators:deuterium"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 							"mekanism:side_config": {
 								config: {
 									chemicals: {
@@ -1877,12 +1841,6 @@
 									id: "mekanismgenerators:tritium"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 							"mekanism:side_config": {
 								config: {
 									chemicals: {
@@ -1962,12 +1920,6 @@
 								id: "mekanismgenerators:fusion_fuel"
 							}]
 						}
-						"mekanism:owner": [I;
-							1448333235
-							-1957933073
-							-1931931567
-							1246553530
-						]
 						"mekanism:side_config": {
 							config: {
 								chemicals: {
@@ -2060,12 +2012,6 @@
 									id: "mekanismgenerators:fusion_fuel"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 							"mekanism:side_config": {
 								config: {
 									chemicals: {
@@ -2315,12 +2261,6 @@
 									id: "mekanism:steam"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 						}
 						count: 1
 						id: "mekanism:elite_chemical_tank"
@@ -2444,12 +2384,6 @@
 									id: "mekanism:superheated_sodium"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 							"mekanism:side_config": {
 								config: {
 									chemicals: {
