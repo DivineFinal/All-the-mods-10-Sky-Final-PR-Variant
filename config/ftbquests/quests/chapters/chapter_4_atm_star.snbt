@@ -484,7 +484,7 @@
 			rewards: [{
 				exclude_from_claim_all: true
 				id: "002C596E63592EED"
-				table_id: 5196609362437981520L
+				table_id: 7025454341029952768L
 				type: "loot"
 			}]
 			shape: "square"
@@ -1067,7 +1067,7 @@
 			tasks: [{
 				count: 4L
 				id: "7879CEAA763313EF"
-				item: { components: { "ftbfiltersystem:filter": "or(stack_size(>4)item(ae2:quantum_entangled_singularity)item(advanced_ae:shattered_singularity))", "minecraft:custom_name": "\"Singularities\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(ae2:quantum_entangled_singularity)item(advanced_ae:shattered_singularity))", "minecraft:custom_name": "\"Singularities\"" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
 			x: 4.0d
