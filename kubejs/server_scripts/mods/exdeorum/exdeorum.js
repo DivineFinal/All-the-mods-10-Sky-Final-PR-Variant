@@ -176,6 +176,15 @@ ServerEvents.recipes((allthemods) => {
     ])
   })
 
+  // ===== Dirt =====
+  // Onion and rice are planted from the crop itself, so they can't be bought as seeds from the Market
+  ;["farmersdelight:onion", "farmersdelight:rice"].forEach((crop) => {
+    sieving(crop, Materials.Dirt, [
+      { mesh: Meshes.STRING, chance: 0.03 },
+      { mesh: Meshes.FLINT, chance: 0.04 }
+    ])
+  })
+
   // ===== Soul Sand =====
 
   sieving("mysticalagriculture:prosperity_shard", Materials.SoulSand, [
