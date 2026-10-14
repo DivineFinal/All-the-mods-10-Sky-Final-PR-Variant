@@ -112,5 +112,24 @@ KubeJSTweaks.beforeRecipes((event) => {
     entry.addConditionsFromKey("input")
   })
 
+  // Raw ore blocks smelt into a full metal block, so they should take 9x as long as a single raw ore
+  event.getEntry(/^alltheores:smelting\/[^/]+\/raw_block_(smelting|blasting)$/).forEach((entry) => {
+    let json = entry.json()
+    json.addProperty("cookingtime", json.get("cookingtime").getAsInt() * 9)
+    json.addProperty("experience", json.get("experience").getAsFloat() * 9)
+  })
+
+  // Squeezer resolves the raw uranium tag to a random item each launch, pin it to the unified one
+  event.getEntry(/^integrateddynamics:(mechanical_)?squeezer\/ore\/raw_uranium$/).forEach((entry) => {
+    for (let out of entry.json().getAsJsonArray("output_items")) {
+      let tag = out.remove("tag")
+      if (tag == null) continue
+      out.add("item", {
+        id: "alltheores:raw_uranium",
+        count: tag.has("count") ? tag.get("count").getAsInt() : 1
+      })
+    }
+  })
+
   console.log(`Fixing recipes took ${timer.stop().elapsed("milliseconds")} ms...`)
 })
