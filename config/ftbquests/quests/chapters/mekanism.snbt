@@ -425,12 +425,6 @@
 									id: "mekanism:hydrogen"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 						}
 						count: 1
 						id: "mekanism:basic_chemical_tank"
@@ -1499,12 +1493,6 @@
 									id: "mekanism:oxygen"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 						}
 						count: 1
 						id: "mekanism:basic_chemical_tank"
@@ -1665,12 +1653,6 @@
 									id: "minecraft:water"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 						}
 						count: 1
 						id: "mekanism:advanced_fluid_tank"
@@ -2451,12 +2433,6 @@
 									id: "mekanism:oxygen"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 						}
 						count: 1
 						id: "mekanism:basic_chemical_tank"
@@ -2557,12 +2533,6 @@
 									id: "mekanism:brine"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 						}
 						count: 1
 						id: "mekanism:basic_chemical_tank"
@@ -2721,12 +2691,6 @@
 									id: "mekanism:hydrogen"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 						}
 						count: 1
 						id: "mekanism:basic_chemical_tank"
@@ -2903,12 +2867,6 @@
 									id: "mekanism:sulfuric_acid"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 						}
 						count: 1
 						id: "mekanism:basic_chemical_tank"
@@ -2963,12 +2921,6 @@
 									id: "mekanism:hydrogen_chloride"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 						}
 						count: 1
 						id: "mekanism:basic_chemical_tank"
@@ -3355,12 +3307,6 @@
 									id: "mekanism:oxygen"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 						}
 						count: 1
 						id: "mekanism:basic_chemical_tank"
@@ -3403,12 +3349,6 @@
 									id: "mekanism:hydrogen"
 								}]
 							}
-							"mekanism:owner": [I;
-								1448333235
-								-1957933073
-								-1931931567
-								1246553530
-							]
 						}
 						count: 1
 						id: "mekanism:basic_chemical_tank"
