@@ -428,11 +428,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "13EEA182A22DD84D"
-				observation_type: "block"
-				observe_type: 0
-				timer: 0L
-				to_observe: "minecraft:grass_block"
-				type: "observation"
+				type: "checkmark"
 			}]
 			x: 12.0d
 			y: -0.5d
