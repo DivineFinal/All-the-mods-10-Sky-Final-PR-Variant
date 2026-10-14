@@ -57,14 +57,15 @@ ServerEvents.recipes((allthemods) => {
     D: "minecraft:obsidian"
   })
 
+  // Filter by mod first so unrelated recipes (e.g. broken create silentgems compat) aren't parsed
   allthemods.replaceInput(
-    { output: /generatorgalore:.*_generator_8x/ },
+    { mod: "generatorgalore", output: /generatorgalore:.*_generator_8x/ },
     "minecraft:echo_shard",
     "alltheores:diamond_gear"
   )
 
   allthemods.replaceInput(
-    { output: /generatorgalore:.*_generator_64x/ },
+    { mod: "generatorgalore", output: /generatorgalore:.*_generator_64x/ },
     "minecraft:conduit",
     "alltheores:netherite_gear"
   )
