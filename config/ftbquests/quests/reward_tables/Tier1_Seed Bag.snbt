@@ -113,14 +113,6 @@
 			weight: 3.0f
 		}
 		{
-			id: "6D865372C383C563"
-			item: {
-				count: 1
-				id: "mysticalagriculture:infusion_crystal"
-			}
-			weight: 1.5f
-		}
-		{
 			id: "619D622286B8FA74"
 			item: {
 				count: 1
