@@ -5,6 +5,8 @@ text_color:          #FFFFFF
 hover_text_color:    #FFFFA0
 disabled_text_color: #999999
 
+widget_border:       #1B1D1E
+
 context_background:    ftbquests:textures/background_tall.png; color=#0077c2; tile_size=0
 context_menu:          hollow_rectangle:{{widget_border}}; round_edges + {{context_background}}; padding=1
 
