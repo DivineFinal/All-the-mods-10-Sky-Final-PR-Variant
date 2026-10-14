@@ -13,6 +13,7 @@
 		"{image:atm:textures/questpics/hnn.png width:150 height:150 align:center}"
 	]
 	quest.37EBB8E0D6E5F821.title: "Welcome to &9Hostile Neural Networks&r!"
+	quest.364A1936C5AFFB4E.quest_desc: ["&bElder Guardians&r don't spawn naturally in the &b&lSky&r. To get this &bData Model&r you'll need to summon one, for example with an &dArs Nouveau&r summoning upgrade, then train the model on it with your &9Deep Learner&r."]
 	quest.3E3CBDCEAB0FF28F.quest_desc: ["The &9Deep Learner&r is one of the core components of HNN.\\n\\nWith this item, you can right click to open up a HUD and store &6Data Models&r to gather data while killing mobs.\\n\\nEach Learner can hold 4 Data Models, and as long as you have the Learner anywhere in your inventory, it will collect data for the models placed inside!\\n\\nNote: You can have multiple Deep Learners in your inventory, and it will count the kills for all Data Models inside all of the Learners."]
 	quest.3E3CBDCEAB0FF28F.quest_subtitle: "The Learning HUD"
 	quest.3E3CBDCEAB0FF28F.title: "&aLearning Mobs"
