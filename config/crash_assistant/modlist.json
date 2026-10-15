@@ -101,13 +101,13 @@
     "curseForgeHash": 16446104,
     "modrinthHash": "ea11d23e0f8c48544a269dc7c56f6593cb1cafe2"
   },
-  "allthemodium-3.1.1_mc_1.21.1.jar": {
-    "jarName": "allthemodium-3.1.1_mc_1.21.1.jar",
+  "allthemodium-3.2.1_mc_1.21.1.jar": {
+    "jarName": "allthemodium-3.2.1_mc_1.21.1.jar",
     "modId": "allthemodium",
     "name": "Allthemodium",
-    "version": "3.1.1",
-    "curseForgeHash": 553102792,
-    "modrinthHash": "21de8fdca6f559dbb99af11143f0d8e5dcb0f146"
+    "version": "3.2.1",
+    "curseForgeHash": 2233877175,
+    "modrinthHash": "9e21df08231fe3c2075b5c5f4151f662dd9e22d2"
   },
   "alltheores-3.2.0_neoforge_1.21.1.jar": {
     "jarName": "alltheores-3.2.0_neoforge_1.21.1.jar",
@@ -276,6 +276,14 @@
     "version": "4.0.6",
     "curseForgeHash": 669268138,
     "modrinthHash": "4bcbdf388bd5e387beca7c627224aac33584b55b"
+  },
+  "atmcompat-1.21.1-1.0.0.jar": {
+    "jarName": "atmcompat-1.21.1-1.0.0.jar",
+    "modId": "atmcompat",
+    "name": "ATM: Compat",
+    "version": "1.21.1-1.0.0",
+    "curseForgeHash": 932749487,
+    "modrinthHash": "bd82494d7abfc5db3a404fb75b0cb956d56a52af"
   },
   "balm-neoforge-1.21.1-21.0.66.jar": {
     "jarName": "balm-neoforge-1.21.1-21.0.66.jar",
@@ -1364,6 +1372,14 @@
     "version": "1.5.7",
     "curseForgeHash": 315552701,
     "modrinthHash": "f0327d7d2f389020063849200a4128ac9dcb52da"
+  },
+  "justtieredgens-1.4-21.1.jar": {
+    "jarName": "justtieredgens-1.4-21.1.jar",
+    "modId": "justtieredgens",
+    "name": "Just Tiered Generators",
+    "version": "1.4-21.1",
+    "curseForgeHash": 2681822453,
+    "modrinthHash": "29bc9b51ba9a873ca43d660fe3fecb17d89f4527"
   },
   "keybindbundles-1.4.0.jar": {
     "jarName": "keybindbundles-1.4.0.jar",
