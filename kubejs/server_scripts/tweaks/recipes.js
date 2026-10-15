@@ -48,9 +48,7 @@ ServerEvents.recipes((allthemods) => {
     .id("herbsandharvest:dinner_plate")
 
   // Bread slices are in #c:foods/bread, so the original recipe let slices craft into more slices
-  allthemods
-    .shapeless(Item.of("herbsandharvest:bread_slice", 8), ["minecraft:bread"])
-    .id("herbsandharvest:bread_slice")
+  allthemods.shapeless(Item.of("herbsandharvest:bread_slice", 8), ["minecraft:bread"]).id("herbsandharvest:bread_slice")
 
   // Herbs and Harvest salt is only tagged c:items/salt, accept any salt in its recipes
   allthemods.replaceInput({ mod: "herbsandharvest" }, "herbsandharvest:salt", "#c:dusts/salt")
