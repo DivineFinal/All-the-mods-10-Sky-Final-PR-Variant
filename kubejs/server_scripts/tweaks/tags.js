@@ -295,7 +295,8 @@ ServerEvents.tags("item", (allthemods) => {
     "allthemodium:teleport_pad",
     "excessive_utilities:last_millennium_portal",
     "excessive_utilities:depths_portal",
-    /excessive_utilities:ender_quarry.*/
+    /excessive_utilities:ender_quarry.*/,
+    "excessive_utilities:ender_marker"
   ])
 
   allthemods.add("c:sawdust", "exdeorum:wood_chippings")

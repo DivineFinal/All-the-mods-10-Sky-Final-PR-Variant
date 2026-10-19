@@ -37,7 +37,8 @@ ServerEvents.recipes((allthemods) => {
     "railcraft:world_spike_minecart",
     "excessive_utilities:last_millennium_portal",
     "excessive_utilities:depths_portal",
-    /excessive_utilities:ender_quarry.*/
+    /excessive_utilities:ender_quarry.*/,
+    "excessive_utilities:ender_marker"
   ]
 
   const seedRemovals = [
