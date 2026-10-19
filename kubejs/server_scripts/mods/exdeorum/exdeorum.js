@@ -162,6 +162,12 @@ ServerEvents.recipes((allthemods) => {
     ])
   })
 
+  // Excessive Utilities Red Orchid (normally world gen only)
+  sieving("excessive_utilities:red_orchid", Materials.Dirt, [
+    { mesh: Meshes.DIAMOND, amount: 1, chance: 0.02 },
+    { mesh: Meshes.NETHERITE, amount: 1, chance: 0.03 }
+  ])
+
   // ===== Moss =====
   ;[
     "integrateddynamics:menril_sapling",
