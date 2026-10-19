@@ -130,8 +130,6 @@
 	quest.6BC78AF7C9D93F11.title: "&l&bChipped&r Terakota"
 	quest.6F65216B13E9FFA9.quest_desc: ["Bir blok elde et. Kelimenin tam anlamıyla herhangi bir blok. \\n\\nHer Oyuncu Blokların yapı yapmanın yapı taşları olduğunu bilmelidir. Gerçekten bir şey inşa etmek için Bloklara ihtiyacın olacak."]
 	quest.6F65216B13E9FFA9.title: "Bloklar!"
-	quest.72DB967E59EEA729.quest_desc: ["&3&lGlassential&r inşa için çok önemli bir moddur, hatta amacı olan yapılar için bile! \\nBu sadece normal Cam değil, bunların imleci eşyanın üzerine getirdiğinde okunabilen özellikleri var! \\n\\nİçinden geçebildiğin ancak Yaratıkların geçemediği Ethereal Glass gibi. (Bunu 9sky'daki Arı Kubbem için kullandım!)"]
-	quest.72DB967E59EEA729.title: "&3&lGlassential&r"
 	quest.7C2ED69E07988DF4.quest_desc: ["Orijinal &2&lMinecraft&r Sandalyesi, merdivenler. \\n\\nModlu &2&lMinecraft&r'a hoş geldin, dekorasyon için merdivenlerden çok daha fazlasına sahibiz. \\n\\nDekorasyon ekleyen onlarca mod var ve dekorasyon için kullanılabilecek eşyalar ekleyen daha da fazlası var!"]
 	quest.7C2ED69E07988DF4.title: "Dekorasyon!"
 	quest.7CF13A4941F608E5.quest_desc: ["Normal Camdan, İnce Camlara ve hatta Mozaiklere kadar!"]
@@ -184,7 +182,6 @@
 	task.4B13D48FF9D2530E.title: "XyCraft Işıkları"
 	task.4B274207A9646FE9.title: "Farmer's Delight"
 	task.4E28970476CABACD.title: "Chipped Işıklar"
-	task.53A682560123F9B6.title: "Glassential"
 	task.5936B8B8EDE0AE55.title: "Metal ve Değerli Taş Blokları"
 	task.5DEABD15EDE5736F.title: "XyCraft Camı"
 	task.5FB27C61053F7FB5.title: "Ars Nouveau Işıkları"

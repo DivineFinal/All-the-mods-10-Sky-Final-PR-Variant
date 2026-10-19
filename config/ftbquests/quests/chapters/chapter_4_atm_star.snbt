@@ -877,7 +877,7 @@
 			id: "3806B74532465EEC"
 			tasks: [{
 				id: "1AEE8C80504D0B6B"
-				item: { count: 1, id: "generatorgalore:ender_generator" }
+				item: { count: 1, id: "excessive_utilities:ender_generator" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -1039,9 +1039,8 @@
 		{
 			id: "562156B0A12831B6"
 			tasks: [{
-				count: 2L
 				id: "4DAF5E94087353AD"
-				item: { count: 1, id: "generatorgalore:netherstar_generator_8x" }
+				item: { count: 1, id: "excessive_utilities:nether_star_generator" }
 				type: "item"
 			}]
 			x: -3.5d

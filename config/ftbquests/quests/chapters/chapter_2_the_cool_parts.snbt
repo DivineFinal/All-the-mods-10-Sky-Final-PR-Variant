@@ -4,7 +4,7 @@
 	filename: "chapter_2_the_cool_parts"
 	group: "029264819125415F"
 	icon: {
-		id: "generatorgalore:magmatic_generator"
+		id: "excessive_utilities:magmatic_generator"
 	}
 	id: "28BCA5042050B140"
 	images: [
@@ -263,7 +263,7 @@
 		{
 			height: 1.0d
 			id: "38414CB9012A402E"
-			image: "generatorgalore:block/enchantment_generator_top_on"
+			image: "excessive_utilities:block/generator/disenchantment/front_on"
 			rotation: 0.0d
 			width: 1.0d
 			x: -14.0d
@@ -272,7 +272,7 @@
 		{
 			height: 1.0d
 			id: "26D92F3260142474"
-			image: "generatorgalore:block/culinary_generator_top_on"
+			image: "excessive_utilities:block/generator/culinary/front_on"
 			rotation: 0.0d
 			width: 1.0d
 			x: -12.5d
@@ -281,7 +281,7 @@
 		{
 			height: 1.0d
 			id: "3FC20D52C74466C9"
-			image: "generatorgalore:block/netherstar_generator_top_on"
+			image: "excessive_utilities:block/generator/nether_star/front_on"
 			rotation: 0.0d
 			width: 1.0d
 			x: -14.0d
@@ -290,7 +290,7 @@
 		{
 			height: 1.0d
 			id: "705AB9E23E53809E"
-			image: "generatorgalore:block/iron_generator_top_on"
+			image: "excessive_utilities:block/generator/survival/front_on"
 			rotation: 0.0d
 			width: 1.0d
 			x: -12.5d
@@ -323,7 +323,7 @@
 			size: 1.5d
 			tasks: [{
 				id: "0EB013018E702B1B"
-				item: { count: 1, id: "generatorgalore:iron_generator" }
+				item: { count: 1, id: "excessive_utilities:survivalist_generator" }
 				type: "item"
 			}]
 			x: -8.5d
@@ -340,7 +340,7 @@
 					id: "47A5B263CA06D9FF"
 					item: {
 						count: 1
-						id: "minecraft:honey_block"
+						id: "minecraft:slime_block"
 					}
 					type: "item"
 				}
@@ -352,7 +352,7 @@
 			]
 			tasks: [{
 				id: "39307952E4735E09"
-				item: { count: 1, id: "generatorgalore:honey_generator" }
+				item: { count: 1, id: "excessive_utilities:slimy_generator" }
 				type: "item"
 			}]
 			x: -11.5d
@@ -381,7 +381,7 @@
 			]
 			tasks: [{
 				id: "3760CF6628449FEA"
-				item: { count: 1, id: "generatorgalore:culinary_generator" }
+				item: { count: 1, id: "excessive_utilities:culinary_generator" }
 				type: "item"
 			}]
 			x: -10.5d
@@ -419,7 +419,7 @@
 			]
 			tasks: [{
 				id: "749FA5DA6A42E764"
-				item: { count: 1, id: "generatorgalore:potion_generator" }
+				item: { count: 1, id: "excessive_utilities:potion_generator" }
 				type: "item"
 			}]
 			x: -12.0d
@@ -448,7 +448,7 @@
 			]
 			tasks: [{
 				id: "0E0857E2248D657E"
-				item: { count: 1, id: "generatorgalore:ender_generator" }
+				item: { count: 1, id: "excessive_utilities:ender_generator" }
 				type: "item"
 			}]
 			x: -10.5d
@@ -477,7 +477,7 @@
 			]
 			tasks: [{
 				id: "73CB2D4EE3ACEE1A"
-				item: { count: 1, id: "generatorgalore:halitosis_generator" }
+				item: { count: 1, id: "excessive_utilities:halitosis_generator" }
 				type: "item"
 			}]
 			x: -12.0d
@@ -505,7 +505,7 @@
 			]
 			tasks: [{
 				id: "2A5900E766CEB417"
-				item: { count: 1, id: "generatorgalore:netherstar_generator" }
+				item: { count: 1, id: "excessive_utilities:nether_star_generator" }
 				type: "item"
 			}]
 			x: -10.5d
@@ -532,7 +532,7 @@
 			]
 			tasks: [{
 				id: "4F7772A5628CD409"
-				item: { count: 1, id: "generatorgalore:netherite_generator" }
+				item: { count: 1, id: "excessive_utilities:furnace_generator" }
 				type: "item"
 			}]
 			x: -9.5d
@@ -570,7 +570,7 @@
 			]
 			tasks: [{
 				id: "24481F34C15FB282"
-				item: { count: 1, id: "generatorgalore:enchantment_generator" }
+				item: { count: 1, id: "excessive_utilities:disenchantment_generator" }
 				type: "item"
 			}]
 			x: -11.5d
@@ -1637,7 +1637,7 @@
 			size: 3.0d
 			tasks: [{
 				id: "0D34574E55DFA97A"
-				item: { count: 1, id: "generatorgalore:magmatic_generator" }
+				item: { count: 1, id: "excessive_utilities:magmatic_generator" }
 				type: "item"
 			}]
 			x: -3.0d
@@ -2190,58 +2190,6 @@
 			}]
 			x: -12.0d
 			y: 7.0d
-		}
-		{
-			dependencies: ["61F265D9A5713A4D"]
-			id: "481E60311ED46731"
-			rewards: [
-				{
-					id: "073E5F7008DBEEF3"
-					item: {
-						count: 1
-						id: "allthecompressed:coal_block_1x"
-					}
-					type: "item"
-				}
-				{
-					id: "4158296D4198969C"
-					type: "xp_levels"
-					xp_levels: 8
-				}
-			]
-			tasks: [{
-				id: "3ECD980426D48A3D"
-				item: { components: { "ftbfiltersystem:filter": "or(item(generatorgalore:culinary_generator_8x)item(generatorgalore:enchantment_generator_8x)item(generatorgalore:ender_generator_8x)item(generatorgalore:halitosis_generator_8x)item(generatorgalore:iron_generator_8x)item(generatorgalore:magmatic_generator_8x)item(generatorgalore:netherite_generator_8x)item(generatorgalore:netherstar_generator_8x)item(generatorgalore:honey_generator_8x)item(generatorgalore:potion_generator_8x))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -9.5d
-			y: 2.0d
-		}
-		{
-			dependencies: ["481E60311ED46731"]
-			id: "21912CB57B687E30"
-			rewards: [
-				{
-					id: "7113EFE779B71DF3"
-					item: {
-						count: 1
-						id: "allthecompressed:coal_block_2x"
-					}
-					type: "item"
-				}
-				{
-					id: "6BEEE79CD0960A72"
-					type: "xp_levels"
-					xp_levels: 16
-				}
-			]
-			tasks: [{
-				id: "40EA7B0CB21276E4"
-				item: { components: { "ftbfiltersystem:filter": "or(item(generatorgalore:culinary_generator_64x)item(generatorgalore:enchantment_generator_64x)item(generatorgalore:ender_generator_64x)item(generatorgalore:halitosis_generator_64x)item(generatorgalore:honey_generator_64x)item(generatorgalore:magmatic_generator_64x)item(generatorgalore:netherite_generator_64x)item(generatorgalore:netherstar_generator_64x)item(generatorgalore:potion_generator_64x))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -10.5d
-			y: 3.0d
 		}
 		{
 			dependencies: ["65CE3B5FCD759ABC"]

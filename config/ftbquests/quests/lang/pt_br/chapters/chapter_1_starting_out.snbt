@@ -30,19 +30,6 @@
 	quest.145917B219D0D28D.quest_desc: ["Todos os mundos de &bSkyblock&r surgem com o essencial. &2Grama &fe uma &2Árvore&r. \\n\\nPrecisaremos da &2Árvore&r para obter &6Madeira&r e tudo que vem da &6Madeira&r. E quanto à &2Grama&r? \\n\\nBem, primeiro: &aCriaturas Passivas&r precisam de &2Grama&r para nascer. Segundo: a &2Grama&r se espalha para outros blocos de Terra. Terceiro: podemos usar Shift + Clique com o Botão Direito na &2Grama&r para obter &7Seixos&r!"]
 	quest.145917B219D0D28D.quest_subtitle: ""
 	quest.145917B219D0D28D.title: "&2Grama"
-	quest.162AB6F9257EB71E.quest_desc: [
-		"Existem várias maneiras de gerar seus primeiros bits de energia."
-		""
-		"Neste pacote, o Generators Galore foi totalmente reformulado! Com melhorias mais baratas para 8x e 64x, e aumento na produção de energia em geral, pegue um gerador a lava potente e comece! Se quisermos começar com automação no ATM10:TTS, precisaremos nos aprofundar mais em energia e em alguns mods novos!"
-		""
-		"Aqui estão alguns dos mods que ele inclui!"
-		""
-		"&bGenerators Galore&r (níveis e mudanças)"
-		""
-		"&bNíveis do Acelerador de Crescimento&r (recomendamos o direcional, é super rápido!)"
-		""
-		"&bGeores&r (Cultive os materiais que estão faltando!)&r"
-	]
 	quest.162AB6F9257EB71E.title: "O Próximo Capítulo"
 	quest.1B186F14606C07D7.quest_desc: ["Combinar &ePedra Luminosa&r com &cLava&r em um &6&lBarril&r (de preferência um de &7&lPedra&r) criará &ePedra do End&r. \\n\\nAssim como o &4Netherrack&r, podemos usar um &8Martelo&r para Triturá-lo e depois &bPeneirar&r as partes Trituradas! \\n\\nIsso nos dará &3Pérolas do Ender&r, &aOlhos do Ender&r, e mais..."]
 	quest.1B186F14606C07D7.title: "&ePedra do End"

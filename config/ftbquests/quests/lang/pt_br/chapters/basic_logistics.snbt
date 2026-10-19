@@ -131,9 +131,6 @@
 		"{image:atm:textures/questpics/logistics/id_energy.png width:200 height:50 align:center}"
 	]
 	quest.76CECFB244F39F18.title: "&3Importação de Energia"
-	quest.7AD6E01ED01E6F13.quest_desc: ["Estes são alguns dos dispositivos de transferência de itens e fluidos mais rápidos, fáceis de usar e versáteis que existem. Use Pedra Luminosa para aumentar as transferências para pilhas/baldes por tick, e diamantes para focar em uma quantidade específica de MB ou itens sendo enviados para o bloco especificado (pedra luminosa no translocador de saída, pepita de diamante no translocador de entrada)."]
-	quest.7AD6E01ED01E6F13.quest_subtitle: "De volta novamente..."
-	quest.7AD6E01ED01E6F13.title: "Adivinha quem voltou?"
 	quest.7BC8F50A89A3BE1A.quest_desc: ["Estes são apenas usados para Conectar &cNodos de Laser&r uns aos outros e a Conectores. Não são tão importantes, eu só queria manter o tema das Chaves Inglesas. \\n\\nFunciona como uma Chave Inglesa para outras Configurações!"]
 	quest.7EE27C3908008E20.quest_desc: ["Se precisar estender seus &cNodos de Laser&r por uma longa distância, tente usar Conectores! Basta usar a Chave Inglesa como de costume."]
 	task.1807A230BA87899B.title: "Etiquetas de Transferência"
@@ -145,6 +142,5 @@
 	task.4CCB830CFDD43B5E.title: "TodosOsDireitosReservados"
 	task.5B7926B511000F1F.title: "Canos Mecânicos"
 	task.5E4B74F97BDED243.title: "TodosOsDireitosReservados"
-	task.77187686AC2440DB.title: "Translocadores"
 	task.79E961F671475850.title: "Condutores Termodinâmicos"
 }

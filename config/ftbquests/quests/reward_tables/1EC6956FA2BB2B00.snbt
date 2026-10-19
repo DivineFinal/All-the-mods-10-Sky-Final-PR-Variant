@@ -73,7 +73,7 @@
 			weight: 1.5f
 		}
 		{ id: "185EB7E09EAFBB69", item: { count: 1, id: "sophisticatedstorage:packing_tape" } }
-		{ id: "3AA1435E1D7007F8", item: { count: 1, id: "trashcans:item_trash_can" } }
+		{ id: "3AA1435E1D7007F8", item: { count: 1, id: "excessive_utilities:trash_can" } }
 		{ id: "02BA8DC1689E6AB0", item: { count: 1, id: "minecraft:oak_chest_boat" } }
 		{
 			count: 2

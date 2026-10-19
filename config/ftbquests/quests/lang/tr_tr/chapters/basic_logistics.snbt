@@ -131,9 +131,6 @@
 		"{image:atm:textures/questpics/logistics/id_energy.png width:200 height:50 align:center}"
 	]
 	quest.76CECFB244F39F18.title: "&3Enerji İçe Aktarımı"
-	quest.7AD6E01ED01E6F13.quest_desc: ["Bunlar, mevcut en hızlı, en kolay kullanılan ve en çok yönlü eşya ve sıvı aktarım cihazlarından bazılarıdır. Aktarımı tick başına yığın veya kova seviyesine çıkarmak için Işık Taşı kullanın. Elmaslar ise hedef bloğa gönderilecek belirli mB veya eşya miktarını ayarlamanızı sağlar (çıkış Translocator'ına Işık Taşı, giriş Translocator'ına elmas parçası)."]
-	quest.7AD6E01ED01E6F13.quest_subtitle: "Yine döndü..."
-	quest.7AD6E01ED01E6F13.title: "Bilin bakalım kim döndü?"
 	quest.7BC8F50A89A3BE1A.quest_desc: ["Bunlar &cLaser Node&r'larını birbirine ve konektörlere bağlamak için kullanılır. Çok önemli bir konu değil; bu görevi İngiliz anahtarları temasını sürdürmek için ekledim. \\n\\nAyrıca diğer modların yapılandırmalarında da İngiliz anahtarı işlevi görür!"]
 	quest.7EE27C3908008E20.quest_desc: ["&cLaser Node&r düğümlerini uzak mesafelere bağlamanız gerekiyorsa connector (konektör) kullanabilirsiniz! İngiliz anahtarını normal şekilde kullanarak bağlantıyı kurabilirsiniz."]
 	task.1807A230BA87899B.title: "Transfer Labels"
@@ -145,6 +142,5 @@
 	task.4CCB830CFDD43B5E.title: "Tüm Hakları Saklıdır"
 	task.5B7926B511000F1F.title: "Mekanik Borular"
 	task.5E4B74F97BDED243.title: "Tüm Hakları Saklıdır"
-	task.77187686AC2440DB.title: "Translocator'lar"
 	task.79E961F671475850.title: "Termodinamik İletkenler"
 }

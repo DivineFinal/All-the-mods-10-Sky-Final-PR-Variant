@@ -130,8 +130,6 @@
 	quest.6BC78AF7C9D93F11.title: "Terracota &l&bTalhada&r"
 	quest.6F65216B13E9FFA9.quest_desc: ["Pegue um Bloco. Literalmente qualquer Bloco. \\n\\nTodo Jogador deve saber que os Blocos são os Blocos de construção da construção. Para realmente construir algo, você precisará de Blocos."]
 	quest.6F65216B13E9FFA9.title: "Blocos!"
-	quest.72DB967E59EEA729.quest_desc: ["&3&lGlassential&r é um mod muito importante para construção, mesmo para construções com propósitos! \\nNão é apenas Vidro normal, estes têm habilidades que podem ser lidas ao passar o mouse sobre o Item! \\n\\nComo o Vidro Etéreo, através do qual você pode passar, mas Mobs não. (Eu usei isso para minha Cúpula de Abelhas em 9sky!)"]
-	quest.72DB967E59EEA729.title: "&3&lGlassential&r"
 	quest.7C2ED69E07988DF4.quest_desc: ["A Cadeira original do &2&lMinecraft&r, as escadas. \\n\\nBem-vindo ao &2&lMinecraft&r Modificado, temos muito mais do que apenas escadas para decoração. \\n\\nExistem dezenas de mods que adicionam decoração e ainda mais que adicionam itens que podem ser usados para decoração!"]
 	quest.7C2ED69E07988DF4.title: "Decoração!"
 	quest.7CF13A4941F608E5.quest_desc: ["De Vidro normal, a Vidro com Painéis, e até Mosaicos!"]
@@ -184,7 +182,6 @@
 	task.4B13D48FF9D2530E.title: "Luzes do XyCraft"
 	task.4B274207A9646FE9.title: "Farmer's Delight"
 	task.4E28970476CABACD.title: "Luzes do Chipped"
-	task.53A682560123F9B6.title: "Glassential"
 	task.5936B8B8EDE0AE55.title: "Blocos de Metal e Gema"
 	task.5DEABD15EDE5736F.title: "Vidro do XyCraft"
 	task.5FB27C61053F7FB5.title: "Luzes do Ars Nouveau"

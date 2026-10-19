@@ -207,7 +207,7 @@
 			size: 2.0d
 			tasks: [{
 				id: "309A64EE1C3C9314"
-				item: { count: 1, id: "generatorgalore:magmatic_generator" }
+				item: { count: 1, id: "excessive_utilities:magmatic_generator" }
 				type: "item"
 			}]
 			x: 14.5d

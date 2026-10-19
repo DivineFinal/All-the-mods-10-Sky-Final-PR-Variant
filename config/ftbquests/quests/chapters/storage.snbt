@@ -381,7 +381,7 @@
 		{
 			hide_dependency_lines: true
 			icon: {
-				id: "trashcans:item_trash_can"
+				id: "excessive_utilities:trash_can"
 			}
 			id: "17DC77F7F8C68AE6"
 			rewards: [
@@ -389,7 +389,7 @@
 					id: "69AE6A259BD33878"
 					item: {
 						count: 1
-						id: "trashcans:ultimate_trash_can"
+						id: "excessive_utilities:trash_can_chest"
 					}
 					type: "item"
 				}
@@ -402,17 +402,17 @@
 			tasks: [
 				{
 					id: "4A10EADC3914EA38"
-					item: { count: 1, id: "trashcans:item_trash_can" }
+					item: { count: 1, id: "excessive_utilities:trash_can" }
 					type: "item"
 				}
 				{
 					id: "1DF458EC07D359A4"
-					item: { count: 1, id: "trashcans:liquid_trash_can" }
+					item: { count: 1, id: "excessive_utilities:trash_can_fluid" }
 					type: "item"
 				}
 				{
 					id: "5BF5BF3F0D321A54"
-					item: { count: 1, id: "trashcans:energy_trash_can" }
+					item: { count: 1, id: "excessive_utilities:trash_can_energy" }
 					type: "item"
 				}
 			]

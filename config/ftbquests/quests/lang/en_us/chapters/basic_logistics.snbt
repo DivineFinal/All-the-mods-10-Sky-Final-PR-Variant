@@ -131,9 +131,6 @@
 		"{image:atm:textures/questpics/logistics/id_energy.png width:200 height:50 align:center}"
 	]
 	quest.76CECFB244F39F18.title: "&3Energy Importing"
-	quest.7AD6E01ED01E6F13.quest_desc: ["These are some of the fastest, easiest to use, and most versatile item and fluid transfer devices there are. Use Glowstone to increase transfers to stacks/buckets per tick, and diamonds allow you to focus a specific MB or item amount being sent into the specified block (glowstone on output translocator, diamond nugget on input translocator)."]
-	quest.7AD6E01ED01E6F13.quest_subtitle: "Back again..."
-	quest.7AD6E01ED01E6F13.title: "Guess who's back?"
 	quest.7BC8F50A89A3BE1A.quest_desc: ["These are just used to Connect &cLaser Nodes&r to each other and to Connectors. Not too important I just wanted to keep with the theme of Wrenches. \\n\\nIt does work as a Wrench for other Configs!"]
 	quest.7EE27C3908008E20.quest_desc: ["If you need to string your &cLaser Nodes&r a far distance try using Connectors! Just use the Wrench like normal."]
 	task.1807A230BA87899B.title: "Transfer Labels"
@@ -145,6 +142,5 @@
 	task.4CCB830CFDD43B5E.title: "AllRightsReserved"
 	task.5B7926B511000F1F.title: "Mechanical Pipes"
 	task.5E4B74F97BDED243.title: "AllRightsReserved"
-	task.77187686AC2440DB.title: "Translocators"
 	task.79E961F671475850.title: "Thermodynamic Conductors"
 }

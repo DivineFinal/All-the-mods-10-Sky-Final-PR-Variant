@@ -5,8 +5,6 @@
 	quest.04B68D8613E4A81F.title: "&5&lControlador ME"
 	quest.07A439B838E4BE61.quest_desc: ["&4Tanques&r são feitos para adicionar Líquidos em nossa &c&lFundição&r. \\n\\nPrincipalmente combustível. \\n\\nPrincipalmente &cLava&r! \\n\\nExistem outras maneiras de abastecer nossa &c&lFundição&r, mas não vamos nos preocupar com isso agora. \\n\\nTambém precisaremos de &6Bobinas de Aquecimento de Líquido&r para formar o chão da &c&lFundição&r. \\n\\nElas serão aquecidas pelo nosso combustível e irão derreter nossos itens na &c&lFundição&r."]
 	quest.07A439B838E4BE61.title: "&4Tanques &fda &c&lFundição&r &fe &6Aquecimento"
-	quest.07BEB974DF1E5AD3.quest_desc: ["Funciona exatamente como um Gerador de Ferro... só que muito melhor! "]
-	quest.07BEB974DF1E5AD3.title: "&cGerador de Netherita"
 	quest.08B60C5548530D6C.quest_desc: ["O &4Acelerador de Crescimento Potencializado&r funciona exatamente como um &5Acelerador de Crescimento&r... só que ainda mais rápido! \\n\\nVamos focar em como criá-lo então! \\n\\n&5Pérolas de Fluix&f são apenas &5Cristais de Fluix&f, &5Pó de Fluix&f, e uma &3Pérola do Ender&r. \\n\\nO Núcleo de Aniquilação é Quartzo, &5Pó de Fluix&r, e um &cProcessador Lógico&r. \\n\\nCartões de Aceleração são Melhorias presentes no &b&lAE2&r. Nós os fazemos com Cartões Avançados. Estes precisam de &cProcessadores de Cálculo&r. "]
 	quest.08B60C5548530D6C.title: "&4Acelerador de Crescimento Potencializado"
 	quest.09BF4A7F1C3426D4.quest_desc: ["&6&lGeMinérios&r são nossa principal Automação de Recursos com o &b&lATM10TTS&r. \\n\\nEles funcionam como &5Ametista Florescente&r ou &bCertus&r. Cristais crescerão de qualquer lado deles se houver espaço. \\n\\nA única diferença é que &6&lGeMinérios&r podem ser coletados com Picaretas! Mesmo sem Toque Suave! \\n\\nOs Cristais podem ser minerados do &6GeMinério Florescente&r e então podem ser derretidos para obter nossa Barra. \\n\\nQuaisquer blocos que aceleram a velocidade da &5Ametista&r também acelerarão os &6GeMinérios&r."]
@@ -25,7 +23,6 @@
 	quest.16905BC2C6158311.quest_desc: ["Ok, agora que temos geração de mobs, assim como coletores de saque, só precisamos matar os mobs! \\n\\nEspinhos de Ferro não são tão baratos (ou fáceis) de criar, mas eles definitivamente farão o trabalho! \\n\\nQualquer Mob que tocar o topo dos Espinhos de Ferro levará Dano. Se o Mob morrer, ele dropará seus saques e &aXP&r. \\n\\nOs Espinhos de Ferro não droparão certos Itens se o Item precisar que o Mob seja explicitamente morto pelo Jogador. "]
 	quest.17B49742F34F23B0.quest_desc: ["Não gosta de Espinhos de Ferro ou &bTrituradores de Mob&r? Por que não experimentar os &l&4Espinhos Pontiagudos&r! \\n\\nEstes nos dão 6 diferentes níveis de Espinhos. \\n\\nQuanto mais caro o &4Espinho&r, maior o Dano. Mas... eles também causam diferentes Efeitos por morte. \\n\\n&6Espinhos de Madeira&r não matam. &7Pedra&r não dropa Itens ou &bXP&r. Ferro dropa Itens mas não &bXP&r, enquanto &eOuro&r faz o oposto. &bDiamante&r dá drops de morte por jogador e ainda pode ser &5Encantado&r como uma Espada! &cNetherita&r faz tudo que &bDiamante&r faz, e ainda tem resistência a explosões, até mesmo contra o &0&lWither&r."]
 	quest.17B49742F34F23B0.title: "&l&4Espinhos Pontiagudos"
-	quest.1843C79133DFB024.quest_desc: ["O Gerador mais poderoso e eficiente, o Gerador de Estrela do Nether. Adivinhe o que ele usa para gerar Energia!"]
 	quest.1A97DDE49DB49E9D.quest_desc: [
 		"4 Baldes de &aXP Fluido&r, uma &2Semente&r de qualquer tipo, assim como drops de Zumbis, Esqueletos, Aranhas e Creepers nos darão &5Ração de Frango Geneticamente Modificada Amaldiçoada&r. \\n\\nEsta massa nojenta de microplásticos, modificações genéticas e Glúten pode ser dada a uma Galinha para obter um &dOvo Podre&r. As Galinhas não conseguem lidar com toda a modificação genética e irão explodir. \\n\\nPodemos colocar o &dOvo Podre&r na Terra para fazer &5Terra Medonha&r. Pode criar até um 5x5 de &5Terra Medonha&r. \\n\\n&5Terra Medonha&r irá gerar &cMobs Hostis&r quando estiver escuro. Só que a uma taxa 10 vezes maior. Incluindo alguns que você não vê com frequência!"
 		"{image:atm:textures/questpics/chap2/chap2_dreadful.png width:100 height:100 align:center}"
@@ -37,8 +34,6 @@
 	quest.1DB607AA14FBF2F7.title: "&bTriturador de Mob"
 	quest.1E3BEB94E0EEF222.quest_desc: ["&9Aceleradores de Crescimento Direcionais&r usam a mesma receita dos &4Aceleradores de Crescimento Potencializados&r, apenas substitua o Núcleo de Aniquilação por um Núcleo de Formação. \\n\\nNúcleos de Formação precisam de &bCristal de Certus&f, &5Pó de Fluix&f, e um &cProcessador Lógico&r. \\n\\nO &9Acelerador de Crescimento Direcional&r funciona de forma diferente dos outros &2Aceleradores de Crescimento&r pela forma como eles crescem. Em vez de crescerem Cristais em todas as direções disponíveis do Cristal Florescente, ele crescerá apenas em uma direção definida. \\n\\nPodemos definir a Direção no &9Acelerador de Crescimento Direcional&r com um item chamado &9Modificador de Direção&r. Apenas clique com o botão direito no &9Acelerador de Crescimento&r com ele para mudar a Direção. \\n\\nEstes &9Aceleradores de Crescimento&r são os mais rápidos e melhores para Fazendas Automáticas!"]
 	quest.1E3BEB94E0EEF222.title: "&9Acelerador de Crescimento Direcional"
-	quest.21912CB57B687E30.quest_desc: ["Combine 8 Geradores 8x com uma Engrenagem de Netherita para fazer um Gerador 64x! \\n\\nIsso é um pack inteiro de Geradores! Em... um... Bloco!"]
-	quest.21912CB57B687E30.title: "&fUm pack inteiro em 1 Gerador"
 	quest.24677171BCD906C4.quest_desc: ["&d&lO End&r ainda é exatamente o mesmo do &2&lVanilla&r, incluindo a &5&lDragão Ender&r. \\nA &5&lDragão Ender&r tem 150 &4Corações&r e recuperará &4Vida&r dos &dCristais do End&r nos &5Pilares de Obsidiana&r. \\n\\nEla tem alguns ataques: Bolas de Fogo que espalharão &dB hálito de Dragão&r onde quer que atinjam, derramando &dB hálito de Dragão&r onde ela está empoleirada sobre seu ninho, ou simplesmente batendo em você com seu corpo. \\nQuebre os &dCristais&r, depois atire nela com flechas até que ela se empoleire sobre seu Ninho, então corte-a com suas Espadas! \\n\\nUma vez morta, ela dropará suas &5Escamas&r, toneladas de &aXP&r, e ainda abrirá o Portal e dará seu &5Ovo&r acima do Ninho. Lembre-se de pegá-lo!"]
 	quest.24677171BCD906C4.title: "&5&lDragão Ender"
 	quest.258531A2C52ED845.quest_desc: ["Quando vocês conseguirem a &6Pepita de AllTheModium&r, o novo Capítulo já terá sido lançado. \\n\\nOk, isso foi subestimar muito vocês e eu sei que não é verdade. \\n\\nFaremos um Capítulo para o &6&lAllTheModium&r em breve, no entanto!"]
@@ -77,8 +72,6 @@
 	quest.419F9D82FFA2A6C4.title: "&8Ventiladores"
 	quest.4788B2DC0228CA50.quest_desc: ["Com 10 &5Obsidianas&r podemos criar o &cPortal do Nether&r. \\n\\nAcenda-o com &cFogo&r para ativá-lo. Então, atravesse-o para o &c&lNether&r. \\n\\nVocê pode notar uma falta de... &c&lNether&r dentro do &c&lNether&r. Espero que não tenha esquecido que está jogando um &b&lModpack de Skyblock&r! \\n\\nVocê pode construir com blocos para encontrar &cFortalezas do Nether&r ou até mesmo apenas plataformas para os Mobs surgirem. A &5Terra Medonha&r funciona no &c&lNether&r, a propósito!"]
 	quest.4788B2DC0228CA50.title: "&c&lO Nether"
-	quest.481E60311ED46731.quest_desc: ["Combinando 8 do mesmo Gerador com uma Engrenagem de Diamante, podemos comprimir o Gerador em um Gerador 8x! \\n\\nEstes funcionarão na mesma Taxa e Eficiência de 8 Geradores, só que em 1 Máquina! "]
-	quest.481E60311ED46731.title: "8x o Gerador!"
 	quest.48BA757A68C25883.quest_desc: ["Estes &6Itens com Afixo&r especiais, os muito raros e difíceis de obter, aqueles melhores que outros Itens! \\n\\nAssim como o &6Item com Afixo&r, receberemos uma Gema do &5&lApotheosis&r. \\n\\nEsmague-a sob uma Bigorna em queda. \\n\\nIsso nos dará &5Pó de Gema&r! \\n\\nO &5Pó de Gema&r será necessário para muitas Receitas, incluindo a Mesa de Desmanche. "]
 	quest.48BA757A68C25883.title: "&5Pó de Gema"
 	quest.4C7E0034F317E49D.quest_desc: ["A &aEssência de Inferium&r não é minerada ou &bPeneirada&r, mas é um drop de Mobs. De quase todos os Mobs. \\n\\nVocê precisará de toneladas dela para entrar no &2&lMA&r, então mate Mobs suficientes para fazer as &aSementes de Inferium&r. \\n\\nElas podem ser plantadas para farmar &aInferium&r."]
@@ -114,21 +107,14 @@
 	quest.603816519B62044F.title: "&5&lDraconic Evolution"
 	quest.615D8F153DBF3C9C.quest_desc: ["O &8Aço&r será usado em muitos Mods, incluindo o &5&lMekanism&r! \\n\\nPara obtê-lo, precisaremos construir um &9&lInfusor Metalúrgico&r. Além disso, ele precisará de Energia, &0Carvão&r e &7Ferro&r. \\n\\nAlimente o &9&lInfusor Metalúrgico&r com um pouco de Energia, depois coloque o &0Carvão&f no &eQuadrado Amarelo&f e o &7Ferro &fno &4Quadrado Vermelho&r."]
 	quest.615D8F153DBF3C9C.title: "Fazendo &8Aço"
-	quest.61F265D9A5713A4D.quest_desc: ["O &6&lGenerator Galore&r mudou bastante! \\n\\nEles todos funcionam da mesma forma, use Item e obtenha Energia, mas seus tipos e Receitas mudaram. \\n\\nNão precisamos mais de Geradores de &6Cobre&f, &eOuro&f e &bDiamante&r, agora temos apenas Geradores de Ferro, &cNetherita&r e Geradores únicos. \\nTodos, exceto o &4Gerador Magmático&r, começam com o Gerador de Ferro!"]
-	quest.61F265D9A5713A4D.quest_subtitle: "Gerador de Ferro"
-	quest.61F265D9A5713A4D.title: "&6&lGenerator Galore"
 	quest.64B72C477EA7E6CA.quest_desc: ["&bDrenos&r são o que usaremos para extrair nossos materiais. Sim, infelizmente estará quente demais para nossas Mãos ou Baldes. \\n\\nConecte a &7Torneira&r da &c&lFundição&r ao &bDreno&r, para drenar os materiais ao clicar com o botão direito na Torneira. \\n\\nVocê também pode ver as quantidades de líquidos na &c&lFundição&r ao visualizar o &bDreno&r!"]
 	quest.64B72C477EA7E6CA.title: "&bDrenos &fe &7Torneiras&r da &c&lFundição"
 	quest.65CE3B5FCD759ABC.quest_desc: ["Precisaremos continuar &bPeneirando&f e &8Martelando&r por um longo tempo com o &bSkyblock&r, infelizmente nem toda Fazenda substituirá isso. \\n\\nBem, pelo menos com o &b&lEx Machinis&r podemos automatizar completamente o ato de &bPeneirar&r e &8Martelar&r com o custo de Energia!"]
 	quest.65CE3B5FCD759ABC.title: "Automação do &bSkyblock&r"
 	quest.6712DF74C4972D56.quest_desc: ["&cMolde de Ferraria de Netherita&r! \\n\\nNosso &c&lNether&r é um pouco desprovido de Bastiões, então, em vez disso, temos que criá-los. \\n\\nQuer dizer, você pode usar o &b&lOccultism&r para obtê-los... mas isso é muito mais difícil do que o jeito do &5&lApotheosis&r!"]
 	quest.6712DF74C4972D56.title: "&cMolde de Ferraria de Netherita"
-	quest.68972BA647FDCF8F.quest_desc: ["Se você conhece o &l&6Productive Bees&r, deve conhecer LobsterJonn. Ele fez o &l&6Productive Bees&r e o &l&6Generator's Galore&r (junto com muitos outros). O &6Gerador de Mel&r é uma boa maneira de conectar esses dois mods! O &6Gerador de Mel&r usa &6Mel Líquido&r para gerar Energia. "]
-	quest.68972BA647FDCF8F.title: "&6Gerador de Mel"
 	quest.69201157ECFBB426.quest_desc: ["Eu sempre odeio quando tenho uma Fazenda de &5Endermen&r para XP ou Gemas do Apotheosis, mas acabo com todas essas &3Pérolas do Ender&r. Agora você pode usar essas &3Pérolas do Ender&r para Energia com o &3Gerador Ender&r. Você pode até fazer &aOlhos do Ender&r para ainda mais Energia!"]
 	quest.69201157ECFBB426.title: "&3Gerador Ender"
-	quest.6A1145678E80FB8E.quest_desc: ["Existem tantos &5Encantamentos&r inúteis por aí, por que não obter alguma Energia deles! O &bGerador de Encantamento&r usa &5Livros Encantados&r para gerar Energia. O Nível e a Raridade dos &5Livros Encantados&r mudam a quantidade de Energia que você obtém deles."]
-	quest.6A1145678E80FB8E.title: "&bGerador de Encantamento"
 	quest.6AAE1DA641CBD6A6.quest_desc: ["Podemos &bPeneirar&r Pó para obter &bPó de Pedra Celeste&r. \\n\\nIsso será necessário para fazer nossas Prensas. \\n\\nTambém podemos usá-lo em outras Receitas ou derretê-lo para obter &bPedra Celeste&r."]
 	quest.6AAE1DA641CBD6A6.title: "&bPedra Celeste"
 	quest.6B4AD4927B665338.quest_desc: ["&3Fragmentos de Eco&r são conhecidos por serem itens encontrados nas &6Cidades Antigas&r... que não temos. Ou como drops do &3&lWarden&r... que ainda não podemos invocar... \\n\\nBem, sempre podemos &bPeneirar &ePedra do End&r por uma rara chance de obtê-los! \\n\\n&3Fragmentos de Eco&r são necessários para muitos crafts caros e poderosos. Incluindo o..."]
@@ -179,8 +165,6 @@
 	task.1EB84CB8EE502009.title: "Controladores de Fundição"
 	task.2A6B52161759B041.title: "Estacas"
 	task.2D99E799D705C751.title: "Prensas de Inscritor"
-	task.3ECD980426D48A3D.title: "Geradores 8x"
-	task.40EA7B0CB21276E4.title: "Geradores 64x"
 	task.48FBBB59246F4831.title: "Paredes de Fundição"
 	task.5CD77BCA43DF7796.title: "Tanques de Fundição"
 	task.5FA76A208C54EBBC.title: "Drenos de Fundição"

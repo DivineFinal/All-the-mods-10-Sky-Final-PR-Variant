@@ -26,19 +26,6 @@
 	quest.128A1EEAF8F45042.title: "Küf Gelsin!"
 	quest.145917B219D0D28D.quest_desc: ["Tüm &bSkyblock&r dünyaları temel ihtiyaçlarla başlar: &2Çimenli Toprak &fve bir &2Ağaç&r. \\n\\n&6Odun&r ve &6Odundan&r yapılan her şey için &2Ağaca&r ihtiyacımız var. Peki ya &2Çimenli Toprak&r? \\n\\nÖncelikle 1. &aBarışçıl Yaratıkların&r doğmak için &2Çimenli Toprağa&r ihtiyacı vardır. 2. &2Çimenli Toprak&r diğer topraklara yayılır. 3. &2Çimenli Toprağa&r Shift basılıyken sağ tıklayarak &7Pebble&r elde edebiliriz!"]
 	quest.145917B219D0D28D.title: "&2Çimenli Toprak"
-	quest.162AB6F9257EB71E.quest_desc: [
-		"İlk enerjinizi üretmek için pek çok yöntem var."
-		""
-		"Bu pakette Generators Galore elden geçirildi! 8x ve 64x seviyelerine daha ucuz yükseltmeler ve tüm seviyelerde artırılmış enerji üretimi sayesinde güçlü bir lav jeneratörü edinip işe koyulabilirsiniz! ATM10:TTS'te otomasyona başlamak istiyorsak enerji üretimini biraz daha ilerletmeli ve bazı yeni modlara göz atmalıyız!"
-		""
-		"İşte paketteki modlardan bazıları!"
-		""
-		"&bGenerators Galore&r (seviyeler ve değişiklikler)"
-		""
-		"&bGrowth Accelerator seviyeleri&r (yönlü olanı öneriyoruz; çok hızlı!)"
-		""
-		"&bGeores&r (eksik malzemelerinizi yetiştirin!)&r"
-	]
 	quest.162AB6F9257EB71E.title: "Sonraki Bölüm"
 	quest.1B186F14606C07D7.quest_desc: ["Bir &6&lBarrel&r içinde (tercihen &7&lStone Barrel&r) &eIşık Taşıyla&r &cLavı&r birleştirmek &eEnd Taşı&r üretir. \\n\\nTıpkı &4Netherrack&r gibi bunu da bir &8Hammer&r ile kırabilir, ardından kırılan parçaları &bSieve ile eleyebiliriz&r! \\n\\nBöylece &3Ender İncileri&r, &aEnder Gözleri&r ve daha fazlasını elde ederiz..."]
 	quest.1B186F14606C07D7.title: "&eEnd Taşı"

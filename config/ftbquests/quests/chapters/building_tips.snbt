@@ -703,29 +703,6 @@
 		{
 			dependencies: ["0FE30548F25FEDB1"]
 			icon: {
-				id: "glassential:glass_ethereal"
-			}
-			id: "72DB967E59EEA729"
-			rewards: [{
-				count: 16
-				id: "6C7795BF6465C8CD"
-				item: {
-					count: 1
-					id: "minecraft:glass"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "53A682560123F9B6"
-				item: { components: { "ftbfiltersystem:filter": "or(mod(glassential))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -8.0d
-			y: -1.0d
-		}
-		{
-			dependencies: ["0FE30548F25FEDB1"]
-			icon: {
 				id: "xycraft_world:glass_viewer_rgb_white"
 			}
 			id: "5E5D5D28D82F6891"

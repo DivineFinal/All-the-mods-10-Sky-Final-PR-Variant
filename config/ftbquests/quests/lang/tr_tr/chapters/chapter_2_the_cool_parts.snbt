@@ -5,8 +5,6 @@
 	quest.04B68D8613E4A81F.title: "&5&lME Kontrolcü"
 	quest.07A439B838E4BE61.quest_desc: ["&4Tanklar&r, &c&lDökümhaneye&r sıvı eklememizi sağlar. \\n\\nÇoğunlukla yakıt eklemek için. \\n\\nÇoğunlukla da &cLav&r! \\n\\n&c&lDökümhaneye&r yakıt sağlamanın başka yolları da var, ama şimdilik onlarla uğraşmayacağız. \\n\\n&c&lDökümhanenin&r tabanını oluşturmak için &6Sıvı Isıtma Bobinlerine&r de ihtiyacımız olacak. \\n\\nYakıtımız bu bobinleri ısıtacak, onlar da &c&lDökümhanedeki&r eşyalarımızı eritecek."]
 	quest.07A439B838E4BE61.title: "&c&lDökümhane&r &4Tankları &fve &6Isıtma"
-	quest.07BEB974DF1E5AD3.quest_desc: ["Tam olarak Iron Generator gibi çalışır... yalnızca çok daha iyidir! "]
-	quest.07BEB974DF1E5AD3.title: "&cNetherite Generator"
 	quest.08B60C5548530D6C.quest_desc: ["&4Boosted Growth Accelerator&r, tıpkı &5Büyüme Hızlandırıcı&r gibi çalışır... yalnızca daha da hızlıdır! \\n\\nO hâlde nasıl üretildiğine odaklanalım! \\n\\n&5Fluiks İnciler&f, &5Fluiks Kristalleri&f, &5Fluiks Tozu&f ve bir &3Ender İncisiyle&r yapılır. \\n\\nYok Etme Çekirdeği için Kuvars, &5Fluiks Tozu&r ve bir &cMantık İşlemcisi&r gerekir. \\n\\nHızlandırma Kartları, &b&lAE2&r modundaki yükseltmelerdendir. Bunları Gelişmiş Kartlarla yaparız. Gelişmiş Kartlar için &cHesaplama İşlemcileri&r gerekir. "]
 	quest.08B60C5548530D6C.title: "&4Boosted Growth Accelerator"
 	quest.09BF4A7F1C3426D4.quest_desc: ["&b&lATM10TTS&r paketinde kaynak üretimini otomatikleştirmenin temel yolu &6&lGeOre&r kullanmaktır. \\n\\n&5Tomurcuklanan Ametist&r veya &bSertus&r gibi çalışırlar. Yeterli boşluk varsa her yanlarında kristaller büyür. \\n\\nTek fark, &6&lGeOre&r bloklarını kazmayla alabilmenizdir! İpeksi Dokunuş olmadan bile! \\n\\n&6Budding GeOre&r üzerindeki kristalleri kırıp toplayabilir, ardından külçe elde etmek için pişirebilirsiniz. \\n\\n&5Ametistin&r büyümesini hızlandıran bloklar, &6GeOre&r bloklarını da hızlandırır."]
@@ -25,7 +23,6 @@
 	quest.16905BC2C6158311.quest_desc: ["Yaratıkların doğmasını ve ganimetlerin toplanmasını sağladığımıza göre artık yalnızca yaratıkları öldürmemiz gerekiyor! \\n\\nIron Spikes üretmek o kadar ucuz (veya kolay) değil, ama kesinlikle işimizi görecektir! \\n\\nIron Spikes bloğunun üstüne değen her yaratık hasar alır. Yaratık ölürse ganimetini ve &atecrübe puanlarını&r düşürür. \\n\\nBir eşyanın düşmesi için yaratığın özellikle oyuncu tarafından öldürülmesi gerekiyorsa Iron Spikes o eşyayı düşürmez. "]
 	quest.17B49742F34F23B0.quest_desc: ["Iron Spikes veya &bMob Masher&r hoşunuza gitmedi mi? Neden &l&4Spiky Spikes&r modunu denemiyorsunuz! \\n\\nBu mod bize 6 farklı diken seviyesi sunar. \\n\\n&4Diken&r ne kadar pahalıysa o kadar çok hasar verir. Ama... öldürme sonuçları da birbirinden farklıdır. \\n\\n&6Wooden Spike&r öldürmez. &7Stone Spike&r eşya veya &btecrübe puanı&r düşürmez. Iron Spike eşya düşürür ama &btecrübe puanı&r vermez; &eGolden Spike&r ise tam tersini yapar. &bDiamond Spike&r oyuncu öldürmelerine özgü ganimetleri verir; ayrıca kılıç gibi &5büyülenebilir&r! &cNetherite Spike&r, &bDiamond Spike&r bloğunun yapabildiği her şeyi yapar; ayrıca patlamalara, hatta &0&lWither&r'a bile dayanıklıdır."]
 	quest.17B49742F34F23B0.title: "&l&4Spiky Spikes"
-	quest.1843C79133DFB024.quest_desc: ["En güçlü ve verimli jeneratör: Netherstar Generator. Enerji üretmek için ne kullandığını tahmin etmek zor olmasa gerek!"]
 	quest.1A97DDE49DB49E9D.quest_desc: [
 		"4 kova &aFluid XP&r, herhangi bir türden bir &2Tohum&r ve zombilerden, iskeletlerden, örümceklerden ve Creeper'lardan düşen eşyalarla &5GM Chicken Feed Cursed&r yapabiliriz. \\n\\nMikroplastik, genetik değişiklik ve glütenden oluşan bu iğrenç karışımı bir tavuğa yedirerek &dRotten Egg&r elde edebiliriz. Tavuklar bu kadar genetik değişikliği kaldıramaz ve patlar. \\n\\n&dRotten Egg&r eşyasını toprağa yerleştirerek &5Dreadful Dirt&r oluşturabiliriz. En fazla 5x5 büyüklüğünde bir &5Dreadful Dirt&r alanı oluşturur. \\n\\n&5Dreadful Dirt&r karanlıkta &cdüşman yaratıkların&r doğmasını sağlar. Hem de yaklaşık 10 kat daha hızlı. Nadiren gördüğünüz bazı yaratıklar bile doğabilir!"
 		"{image:atm:textures/questpics/chap2/chap2_dreadful.png width:100 height:100 align:center}"
@@ -37,8 +34,6 @@
 	quest.1DB607AA14FBF2F7.title: "&bMob Masher"
 	quest.1E3BEB94E0EEF222.quest_desc: ["&9Directional Growth Accelerator&r, &4Boosted Growth Accelerator&r ile aynı tarifi kullanır; yalnızca Yok Etme Çekirdeğini Oluşum Çekirdeğiyle değiştirin. \\n\\nOluşum Çekirdeği için &bSertus Kuvars Kristali&f, &5Fluiks Tozu&f ve bir &cMantık İşlemcisi&r gerekir. \\n\\n&9Directional Growth Accelerator&r, kristalleri büyütme biçimi açısından diğer &2büyüme hızlandırıcılardan&r farklıdır. Tomurcuklanan kristalin boş olan her tarafında kristal büyütmek yerine yalnızca belirlenen bir yönde büyütür. \\n\\n&9Directional Growth Accelerator&r üzerindeki yönü, &9Directional Modifier&r adlı bir eşyayla ayarlayabiliriz. Yönü değiştirmek için bu eşyayla &9hızlandırıcıya&r sağ tıklayın. \\n\\nBu &9büyüme hızlandırıcılar&r en hızlı olanlardır ve otomatik çiftlikler için en iyi seçenektir!"]
 	quest.1E3BEB94E0EEF222.title: "&9Directional Growth Accelerator"
-	quest.21912CB57B687E30.quest_desc: ["8 tane 8x jeneratörü bir Netherite Gear ile birleştirerek 64x jeneratör yapın! \\n\\nBu, tam bir yığın jeneratör demek! Hem de... tek... bir blokta!"]
-	quest.21912CB57B687E30.title: "1 Jeneratörde Tam Bir Yığın"
 	quest.24677171BCD906C4.quest_desc: ["&d&lEnd&r, &5&lEnder Ejderhası&r dâhil olmak üzere &2&lVanilla&r ile tamamen aynıdır. \\n&5&lEnder Ejderhasının&r 150 &4Kalbi&r vardır; &5Obsidiyen Sütunlarının&r üzerindeki &dEnd Kristalleri&r sayesinde &4Canını&r yeniler. \\n\\nBirkaç saldırısı vardır: İsabet ettikleri yere &dEjderha Nefesi&r yayan ateş topları atar, yuvasının üzerinde konakladığında oraya &dEjderha Nefesi&r saçar veya doğrudan gövdesiyle size çarpar. \\n&dKristalleri&r kırın, ardından yuvasının üzerinde konaklayana kadar ona ok atın; sonrasında kılıçlarınızla saldırın! \\n\\nÖldüğünde &5Pullarını&r ve bolca &atecrübe puanı&r düşürür. Ayrıca geçidi açar ve yuvasının üzerinde &5Yumurtasını&r bırakır. Onu almayı unutmayın!"]
 	quest.24677171BCD906C4.title: "&5&lEnder Ejderhası"
 	quest.258531A2C52ED845.quest_desc: ["Siz &6Allthemodium Parçasını&r elde edene kadar yeni bölüm çoktan çıkmış olur. \\n\\nTamam, sizi fazlasıyla hafife aldım; bunun doğru olmadığını biliyorum. \\n\\nYine de yakında &6&lAllTheModium&r için bir bölüm hazırlayacağız!"]
@@ -77,8 +72,6 @@
 	quest.419F9D82FFA2A6C4.title: "&8Mob Fan"
 	quest.4788B2DC0228CA50.quest_desc: ["10 &5Obsidiyenle&r bir &cNether Geçidi&r yapabiliriz. \\n\\nEtkinleştirmek için &cAteşle&r yakın. Ardından içinden geçerek &c&lNether&r'a gidin. \\n\\n&c&lNether&r'da biraz... &c&lNether&r eksikliği fark edebilirsiniz. Umarım bir &b&lSkyblock Mod Paketi&r oynadığınızı unutmadınız! \\n\\nBloklarla yol yaparak &cNether Kalelerini&r bulabilir veya yaratıkların doğması için platformlar kurabilirsiniz. Bu arada &5Dreadful Dirt&r, &c&lNether&r'da da çalışır!"]
 	quest.4788B2DC0228CA50.title: "&c&lNether"
-	quest.481E60311ED46731.quest_desc: ["Aynı türden 8 jeneratörü bir Elmas Dişliyle birleştirerek 8x jeneratöre sıkıştırabiliriz! \\n\\n8 jeneratörle aynı hızda ve verimlilikte çalışır; hem de yalnızca 1 makinede! "]
-	quest.481E60311ED46731.title: "8x Jeneratör!"
 	quest.48BA757A68C25883.quest_desc: ["Şu özel &6Eklentili Eşyalar&r; çok nadir ve elde edilmesi zor olan, diğer eşyalardan daha iyi olanlar! \\n\\n&6Eklentili Eşyanın&r yanında bir &5&lApotheosis&r değerli taşı da elde edeceğiz. \\n\\nOnu düşen bir örsün altında ezin. \\n\\nBöylece &5Değerli Değerli Taş Tozu&r elde ederiz! \\n\\n&5Değerli Değerli Taş Tozu&r, Kurtarma Masası da dâhil olmak üzere pek çok tarifte gerekecek. "]
 	quest.48BA757A68C25883.title: "&5Değerli Değerli Taş Tozu"
 	quest.4C7E0034F317E49D.quest_desc: ["&aInferium Özü&r kazılarak veya &belenerek&r elde edilmez; yaratıklardan düşer. Neredeyse bütün yaratıklardan. \\n\\n&2&lMA&r moduna başlamak için bundan bolca gerekecek; bu yüzden &aInferium Tohumları&r yapabilecek kadar yaratık öldürün. \\n\\nBu tohumları ekerek &aInferium&r yetiştirebilirsiniz."]
@@ -114,21 +107,14 @@
 	quest.603816519B62044F.title: "&5&lDraconic Evolution"
 	quest.615D8F153DBF3C9C.quest_desc: ["&8Çelik&r, &5&lMekanism&r dâhil pek çok modda kullanılır! \\n\\nElde etmek için bir &9&lMetalurjik İnfüzer&r yapmamız gerekir. Ayrıca enerji, &0Kömür&r ve &7Demir&r de gerekecek. \\n\\n&9&lMetalurjik İnfüzere&r enerji sağlayın; ardından &0Kömürü&f &eSarı Kareye&f, &7Demiri &fise &4Kırmızı Kareye&r yerleştirin."]
 	quest.615D8F153DBF3C9C.title: "&8Çelik Yapmak"
-	quest.61F265D9A5713A4D.quest_desc: ["&6&lGenerator Galore&r epey değişti! \\n\\nHepsi aynı şekilde çalışır: Eşya tüketip enerji üretirler; ancak türleri ve tarifleri değişti. \\n\\nArtık &6Copper&f, &eGold&f ve &bDiamond&r jeneratörlerine ihtiyacımız yok; yalnızca Iron, &cNetherite&r ve özel jeneratörler var. \\n&4Magmatic Generator&r dışındakilerin hepsi Iron Generator ile başlar!"]
-	quest.61F265D9A5713A4D.quest_subtitle: "Iron Generator"
-	quest.61F265D9A5713A4D.title: "&6&lGenerator Galore"
 	quest.64B72C477EA7E6CA.quest_desc: ["Malzemelerimizi dışarı almak için &bDrenajları&r kullanacağız. Evet, ne yazık ki elle veya kovayla almak için fazla sıcak olacaklar. \\n\\n&c&lDökümhane&r &7Musluğunu&r &bDrenaja&r bağlayın; musluğa sağ tıkladığınızda malzeme dışarı akacaktır. \\n\\n&bDrenaja&r bakarak &c&lDökümhanedeki&r sıvı miktarlarını da görebilirsiniz!"]
 	quest.64B72C477EA7E6CA.title: "&c&lDökümhane&r &bDrenajları &fve &7Muslukları"
 	quest.65CE3B5FCD759ABC.quest_desc: ["&bSkyblock&r oynarken uzun süre &beleme&f ve &8çekiçle kırma&r işlemlerine devam etmemiz gerekiyor; ne yazık ki her çiftlik bunların yerini tutmaz. \\n\\nEn azından &b&lEx Machinis&r ile enerji harcayarak &belemeyi&r ve &8çekiçle kırmayı&r tamamen otomatikleştirebiliriz!"]
 	quest.65CE3B5FCD759ABC.title: "&bSkyblock&r Otomasyonu"
 	quest.6712DF74C4972D56.quest_desc: ["&cNetherit Yükseltme Şablonları&r! \\n\\n&c&lNether&r dünyamızda Burç Kalıntıları pek bulunmadığı için bunları kendimiz üretmeliyiz. \\n\\nYani elde etmek için &b&lOccultism&r de kullanabilirsiniz... ama bu, &5&lApotheosis&r yönteminden çok daha zor!"]
 	quest.6712DF74C4972D56.title: "&cNetherit Yükseltme Şablonu"
-	quest.68972BA647FDCF8F.quest_desc: ["&l&6Productive Bees&r modunu biliyorsanız LobsterJonn'u da tanıyorsunuzdur. Kendisi &l&6Productive Bees&r ve &l&6Generator's Galore&r modlarını (ve daha pek çoğunu) yaptı. &6Honey Generator&r, bu iki modu bir araya getirmenin güzel bir yoludur! &6Honey Generator&r, enerji üretmek için &6Sıvı Bal&r kullanır. "]
-	quest.68972BA647FDCF8F.title: "&6Honey Generator"
 	quest.69201157ECFBB426.quest_desc: ["Tecrübe puanı veya Apotheosis mücevherleri için bir &5Enderman&r çiftliği kurduğumda elime bu kadar çok &3Ender İncisi&r geçmesinden hep nefret ederim (hehe, sonu &3Ender İncilerine&r varıyor). Artık bu &3Ender İncilerini&r &3Ender Generator&r ile enerjiye dönüştürebilirsiniz. Hatta daha fazla enerji için &aEnder Gözleri&r bile yapabilirsiniz!"]
 	quest.69201157ECFBB426.title: "&3Ender Generator"
-	quest.6A1145678E80FB8E.quest_desc: ["Etrafta o kadar çok işe yaramaz &5Büyü&r var ki, neden onlardan biraz enerji elde etmeyelim! &bEnchantment Generator&r, enerji üretmek için &5Büyülü Kitapları&r kullanır. &5Büyülü Kitapların&r seviyesi ve nadirliği, onlardan elde edeceğiniz enerji miktarını değiştirir."]
-	quest.6A1145678E80FB8E.title: "&bEnchantment Generator"
 	quest.6AAE1DA641CBD6A6.quest_desc: ["&bGökyüzü Taşı Tozu&r elde etmek için Dust &beleyebiliriz&r. \\n\\nBaskılarımızı yapmak için buna ihtiyacımız olacak. \\n\\nBaşka tariflerde de kullanabilir veya &bGökyüzü Taşı&r elde etmek için pişirebiliriz."]
 	quest.6AAE1DA641CBD6A6.title: "&bGökyüzü Taşı"
 	quest.6B4AD4927B665338.quest_desc: ["&3Yankı Parçacıkları&r, &6Antik Şehirlerde&r bulunan eşyalar olarak bilinir... ama bizde Antik Şehir yok. Ya da &3&lMuhafızdan&r düşerler... ama onu da henüz çağıramıyoruz... \\n\\nNeyse ki her zaman &eEnd Taşı &beleyerek&r düşük bir ihtimalle onları elde edebiliriz! \\n\\n&3Yankı Parçacıkları&r birçok pahalı ve güçlü eşyanın üretiminde gereklidir. Bunlardan biri de..."]
@@ -179,8 +165,6 @@
 	task.1EB84CB8EE502009.title: "Dökümhane Kontrolcüleri"
 	task.2A6B52161759B041.title: "Dikenler"
 	task.2D99E799D705C751.title: "Yazıcı Baskıları"
-	task.3ECD980426D48A3D.title: "8x Jeneratörler"
-	task.40EA7B0CB21276E4.title: "64x Jeneratörler"
 	task.48FBBB59246F4831.title: "Dökümhane Duvarları"
 	task.5CD77BCA43DF7796.title: "Dökümhane Tankları"
 	task.5FA76A208C54EBBC.title: "Dökümhane Drenajları"

@@ -743,23 +743,6 @@
 			y: -9.0d
 		}
 		{
-			dependencies: ["7B385FD1CBE02C85"]
-			id: "67A9329C05F98633"
-			optional: true
-			rewards: [{
-				id: "51395C4E467986D4"
-				type: "xp"
-				xp: 100
-			}]
-			tasks: [{
-				id: "3B3CDE9FB2B79352"
-				item: { count: 1, id: "trashcans:ultimate_trash_can" }
-				type: "item"
-			}]
-			x: 9.0d
-			y: -9.0d
-		}
-		{
 			dependencies: ["593CB120B657126C"]
 			id: "5194A067BEA98E79"
 			rewards: [{
