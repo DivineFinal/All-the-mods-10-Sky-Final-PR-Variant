@@ -34,7 +34,10 @@ ServerEvents.recipes((allthemods) => {
     "mekanism:upgrade_anchor",
     "railcraft:world_spike",
     "railcraft:personal_world_spike",
-    "railcraft:world_spike_minecart"
+    "railcraft:world_spike_minecart",
+    "excessive_utilities:last_millennium_portal",
+    "excessive_utilities:depths_portal",
+    /excessive_utilities:ender_quarry.*/
   ]
 
   const seedRemovals = [

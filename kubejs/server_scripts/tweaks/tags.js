@@ -292,7 +292,10 @@ ServerEvents.tags("item", (allthemods) => {
     "georenouveau:monazite_geore_golem_charm",
     "georenouveau:tungsten_geore_golem_charm",
     "actuallyadditions:crafter_on_a_stick",
-    "allthemodium:teleport_pad"
+    "allthemodium:teleport_pad",
+    "excessive_utilities:last_millennium_portal",
+    "excessive_utilities:depths_portal",
+    /excessive_utilities:ender_quarry.*/
   ])
 
   allthemods.add("c:sawdust", "exdeorum:wood_chippings")
