@@ -44,7 +44,7 @@ ServerEvents.tags("block", (allthemods) => {
   //Entangled
   allthemods.add("entangled:invalid_targets", ["@ae2", "@advancedae", "@extendedae", "@megacells", "@appmek"])
 
-  allthemods.add("allthemods:tick_acceleration_blacklist", ["@exmachinis"])
+  allthemods.add("allthemods:tick_acceleration_blacklist", ["@exmachinis", "excessive_utilities:quantum_quarry"])
 
   allthemods.add("justdirethings:tick_speed_deny", "#allthemods:tick_acceleration_blacklist")
   allthemods.add("tiab:un_acceleratable", "#allthemods:tick_acceleration_blacklist")
