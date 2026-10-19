@@ -1,5 +1,4 @@
 ServerEvents.recipes((allthemods) => {
-
   // Pulsating Black Hole
   allthemods.shaped("allthetweaks:pulsating_black_hole", ["asd", "fgh", "jkl"], {
     a: "allthecompressed:oak_log_5x",
