@@ -1,4 +1,5 @@
 ServerEvents.recipes((allthemods) => {
+
   // Pulsating Black Hole
   allthemods.shaped("allthetweaks:pulsating_black_hole", ["asd", "fgh", "jkl"], {
     a: "allthecompressed:oak_log_5x",
@@ -38,7 +39,7 @@ ServerEvents.recipes((allthemods) => {
 
   // Philosopher's Fuel
   allthemods.shaped("allthetweaks:philosophers_fuel", ["ABC", "DEF", "IHI"], {
-    A: "generatorgalore:ender_generator",
+    A: "excessive_utilities:ender_generator",
     B: "ironfurnaces:unobtainium_furnace",
     C: "justdirethings:coalblock_t4",
     D: "actuallyadditions:empowered_canola_seed",
@@ -60,7 +61,7 @@ ServerEvents.recipes((allthemods) => {
 
   // Withers Compass
   allthemods.shaped("allthetweaks:withers_compass", ["DCD", "ABA", "DED"], {
-    A: "generatorgalore:netherstar_generator_8x",
+    A: "excessive_utilities:nether_star_generator",
     B: "industrialforegoing:wither_builder",
     C: 'hostilenetworks:prediction[hostilenetworks:data_model="hostilenetworks:wither"]',
     D: "reliquary:witherless_rose",
