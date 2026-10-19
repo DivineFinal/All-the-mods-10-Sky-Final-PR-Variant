@@ -95,6 +95,15 @@ ItemEvents.modifyTooltips((allthemods) => {
     ],
     [Text.of("§cWARNING: Will implode at wave 3 in a Compact Machine or AE2 Spatial Storage")]
   )
+
+  //Excessive Utilities
+  allthemods.add("excessive_utilities:angel_ring", [
+    Text.of("Any angel ring can have its appearance change in the crafting table.")
+  ])
+  allthemods.add("excessive_utilities:sun_crystal", [
+    Text.of("§cNOTICE: Must be fully charged before use."),
+    Text.of("Drop on the ground to charge. Needs to be day time and direct access to the sky.")
+  ])
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
