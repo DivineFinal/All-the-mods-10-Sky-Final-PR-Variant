@@ -113,7 +113,7 @@ KubeJSTweaks.beforeRecipes((event) => {
   })
 
   // Raw ore blocks smelt into a full metal block, so they should take 9x as long as a single raw ore
-  event.getEntry(/^alltheores:smelting\/[^/]+\/raw_block_(smelting|blasting)$/).forEach((entry) => {
+  event.getEntry(/^alltheores:smelting\/\w+\/raw_block_(smelting|blasting)$/).forEach((entry) => {
     let json = entry.json()
     json.addProperty("cookingtime", json.get("cookingtime").getAsInt() * 9)
     json.addProperty("experience", json.get("experience").getAsFloat() * 9)
