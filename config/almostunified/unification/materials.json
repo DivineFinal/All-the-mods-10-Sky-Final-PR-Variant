@@ -3,6 +3,7 @@
     "minecraft",
     "alltheores",
     "allthemodium",
+    "allthecompressed",
     "kubejs",
     "mekanism",
     "bigreactors",
@@ -13,7 +14,8 @@
     "enderio",
     "utilitarian",
     "actuallyadditions",
-    "oritech"
+    "oritech",
+    "excessive_utilities"
   ],
   "priority_overrides": {},
   "stone_variants": ["stone", "andesite", "deepslate", "diorite", "granite", "nether", "end", "ancient"],
@@ -38,7 +40,8 @@
     "c:silicon",
     "productivebees:flowers/plastic",
     "atm10:tiny_coals",
-    "atm10:tiny_charcoals"
+    "atm10:tiny_charcoals",
+    "allthemods:compressed_{compressedmaterial}_{number}x"
   ],
   "ignored_tags": [],
   "ignored_items": ["pneumaticcraft:plastic", "oritech:biosteel_ingot", "oritech:biosteel_block", "oritech:plastic_sheet"],
