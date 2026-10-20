@@ -143,8 +143,8 @@
 	quest.716B9E90D1A0F120.title: "&7Yazıcı Baskıları&f ve &cDevreler"
 	quest.725E8046DA60CFA3.quest_desc: ["&bProsperity Parçaları&r, Iron Mesh veya daha iyisiyle &8Ruh Kumu &beleyerek&r elde edilir. \\n\\nNeredeyse bütün &2&lMA&r &2Tohumlarını&r yapmakta kullanılan &bProsperity Tohumları&r için gereklidirler! \\n\\nYani oldukça önemliler. \\n\\nKesinlikle şimdiden biriktirmeye başlayın!"]
 	quest.725E8046DA60CFA3.title: "&bProsperity Parçaları"
-	quest.7297391D026EE9A6.quest_desc: ["Enerji üretmenin farklı bir yolunu mu arıyorsunuz? &dİksirleri&r denemeye ne dersiniz! &dPotion Generator&r tam olarak bunu yapar; iksirlerinizi tüketerek iksirin gücüne ve etki süresine oranla enerji üretir."]
-	quest.7297391D026EE9A6.title: "&dPotion Generator"
+	quest.7297391D026EE9A6.quest_desc: ["Enerji üretmenin farklı bir yolunu mu arıyorsunuz? &dİksirleri&r denemeye ne dersiniz! &dPotions Generator&r tam olarak bunu yapar; &dİksirlerinizi&r tüketerek iksirin gücüne ve etki süresine oranla enerji üretir."]
+	quest.7297391D026EE9A6.title: "&dPotions Generator"
 	quest.72DD9E63B22C08E3.quest_desc: ["Değiştirdiğimiz &3Sculk Çığırtkanını&r 3 kez tetikleyerek &3&lMuhafız&r çağırabiliriz. \\n&3&lMuhafız&r, &b&lGökyüzünde&r de 500 &4Kalbi&r ve muazzam hasarıyla aynı derecede güçlüdür! Ayrıca &bSes Işını&r saldırısı da vardır. \\n\\nNeyse ki yüzlerce blok yüksekte olsa bile hâlâ aynı derecede kördür! Onu alt etmek için bunu avantajınıza kullanın. Mesafenizi koruyun ve sessiz olun. \\n\\nEn iyi seçeneğiniz, &3&lMuhafızın&r 23 blok üstüne çıkıp sürekli ok atmaktır. &3&lMuhafız&r, &bSes Işınını&r 23 bloktan daha uzağa gönderemez. \\n\\nDüşürdüğü eşyalara &5&lApotheosis&r için hâlâ ihtiyaç var!"]
 	quest.72DD9E63B22C08E3.title: "&3&lMuhafız"
 	quest.7455D154FD1B4716.quest_desc: ["&b&lFlux Sieve&r bloğunun çalışması için birkaç farklı koşul gerekir. \\n\\nİlk olarak enerji. Bunu nasıl sağlayacağınız size kalmış. \\n\\nİkinci olarak altında bir envanter olmalı. Her tarafından eşya alabilir, ama çıktı vermek için altında bir envantere ihtiyaç duyar. \\n\\nÜçüncü olarak bir Mesh gerekir. Mesh türü, &beleme&r sonucunda elde edilen eşyaları belirler. \\n\\nHer şey hazır olduğunda blokları &b&lFlux Sieve&r içine otomatik gönderin; elde ettiği kaynakları altındaki envantere aktaracaktır!"]
@@ -168,4 +168,14 @@
 	task.48FBBB59246F4831.title: "Dökümhane Duvarları"
 	task.5CD77BCA43DF7796.title: "Dökümhane Tankları"
 	task.5FA76A208C54EBBC.title: "Dökümhane Drenajları"
+	quest.07BEB974DF1E5AD3.quest_desc: ["Survivalist Generator ile aynı yakıtı kullanır... yalnızca çok daha iyidir! "]
+	quest.07BEB974DF1E5AD3.title: "&cFurnace Generator"
+	quest.1843C79133DFB024.quest_desc: ["Tek tür yakıtla çalışan en güçlü jeneratör: Nether Star Generator. Enerji üretmek için ne kullandığını tahmin etmek zor olmasa gerek!"]
+	quest.61F265D9A5713A4D.quest_desc: ["&6&lExcessive Utilities&r, koca bir jeneratör ailesi sunar! \\n\\nHepsi aynı şekilde çalışır: Bir şey koyarsınız, enerji alırsınız. Her biri yalnızca farklı bir yakıt kullanır. \\n\\n&7Survivalist Generator&r, normal ocak yakıtlarını kullanır ve başlamak için iyi bir seçenektir."]
+	quest.61F265D9A5713A4D.quest_subtitle: "Survivalist Generator"
+	quest.61F265D9A5713A4D.title: "&6&lExcessive Generators"
+	quest.68972BA647FDCF8F.quest_desc: ["&aSlimy Generator&r, &aBalçık Topları&r ve &fSütten&r enerji üretir. \\n\\nBir Balçık çiftliğiniz mi var? Artık üssünüze enerji sağlayabilir!"]
+	quest.68972BA647FDCF8F.title: "&aSlimy Generator"
+	quest.6A1145678E80FB8E.quest_desc: ["Etrafta o kadar çok işe yaramaz &5Büyü&r var ki, neden onlardan biraz enerji elde etmeyelim! &bDisenchantment Generator&r, enerji üretmek için &5Büyülü Kitapları&r kullanır."]
+	quest.6A1145678E80FB8E.title: "&bDisenchantment Generator"
 }
