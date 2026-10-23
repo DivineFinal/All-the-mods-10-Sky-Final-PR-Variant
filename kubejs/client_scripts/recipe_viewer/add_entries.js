@@ -23,7 +23,9 @@ RecipeViewerEvents.addEntries("item", (allthemods) => {
   allthemods.add("ironfurnaces:upgrade_allthemodium")
   allthemods.add("ironfurnaces:upgrade_vibranium")
   allthemods.add("ironfurnaces:upgrade_unobtainium")
-  allthemods.add('excessive_utilities:magical_snow_globe[excessive_utilities:magical_snow_globe_progress={amount_required:3,biomes:{"minecraft:is_end":0b,"minecraft:is_nether":0b,"minecraft:is_overworld":0b}}]')
+  allthemods.add(
+    'excessive_utilities:magical_snow_globe[excessive_utilities:magical_snow_globe_progress={amount_required:3,biomes:{"minecraft:is_end":0b,"minecraft:is_nether":0b,"minecraft:is_overworld":0b}}]'
+  )
 })
 
 RecipeViewerEvents.registerSubtypes("item", (allthemods) => {

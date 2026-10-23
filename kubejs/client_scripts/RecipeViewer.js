@@ -31,8 +31,8 @@ RecipeViewerEvents.removeEntriesCompletely("item", (allthemods) => {
 })
 
 // Handles the hiding of the original Quantum Quarry recipe while still allowing it to work as a fallback
-RecipeViewerEvents.removeRecipes(allthemods => {
-	allthemods.remove("excessive_utilities:snow_globe/quantum_quarry")
+RecipeViewerEvents.removeRecipes((allthemods) => {
+  allthemods.remove("excessive_utilities:snow_globe/quantum_quarry")
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.
