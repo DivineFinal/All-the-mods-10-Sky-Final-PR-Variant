@@ -38,7 +38,9 @@ ServerEvents.recipes((allthemods) => {
     "excessive_utilities:last_millennium_portal",
     "excessive_utilities:depths_portal",
     /excessive_utilities:ender_quarry.*/,
-    "excessive_utilities:ender_marker"
+    "excessive_utilities:ender_marker",
+	"utilitarian:sound_muffler",
+	"utilitarian:angel_block"
   ]
 
   const seedRemovals = [
