@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","modularbees:dynamic_assets","mod_resources","add_xycraft_overrides_stone","add_xycraft_overrides_metal","add_xycraft_overrides_glass","moonlight:merged_pack","neovitae_materials","mod/dyenamicsandfriends:compat_packs/productivemetalworks/","mod/dyenamicsandfriends:compat_packs/connectedglass/","mod/dyenamicsandfriends:compat_packs/luminax/","mod/dyenamicsandfriends:compat_packs/cookingforblockheads/","mod/dyenamicsandfriends:compat_packs/botanypots/","file/Neo Vitae - Bloodborn.zip","file/Forcecraft - ReDarted.zip","file/AllTheOres-Colorized-1.21.1.zip"]
+resourcePacks:["vanilla","modularbees:dynamic_assets","mod_resources","add_xycraft_overrides_stone","add_xycraft_overrides_metal","add_xycraft_overrides_glass","moonlight:merged_pack","neovitae_materials","mod/dyenamicsandfriends:compat_packs/productivemetalworks/","mod/dyenamicsandfriends:compat_packs/connectedglass/","mod/dyenamicsandfriends:compat_packs/luminax/","mod/dyenamicsandfriends:compat_packs/cookingforblockheads/","mod/dyenamicsandfriends:compat_packs/botanypots/","file/Neo Vitae - Bloodborn.zip","file/Forcecraft - ReDarted.zip","file/AllTheOres-Colorized-1.21.1.zip","file/SmoothFont_1.21.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
